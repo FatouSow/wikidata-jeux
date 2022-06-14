@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<!--a commenter apres traitement css-->
+<!--<link rel="stylesheet" href="../static/style.css">-->
+<meta charset="UTF-8">
+</head>
+<body>
+
+
+
+<div class="retour">
+<a href="{{ url_for('accueil') }}" class="bouton">Accueil</a>
+</div>
+
+<h1>Paramétrer votre jeu </h1>
+
+<form action = "/jeu_dico/partie" method="POST" class="listeJeux">
+	<div class="language">
+	<h2>Choisissez la langue</h2>
+	<input type="radio" name="langue" id="francais" value="fr" checked>
+	<label for="francais">Français</label>
+	<input type="radio" name="langue" id="anglais" value="en">
+	<label for="francais">Anglais</label>
+	</div>
+
+	<div class="difficulty">
+	<h2> Choisissez le niveau de difficulté </h2>
+	<input type="radio" name="diff" id="tres_facile" value="TF">
+	<label for="facile">Très Facile</label>
+	<input type="radio" name="diff" id="facile" value="F">
+	<label for="facile">Facile</label>
+	<input type="radio" name="diff" id="moyen" value="M" checked>
+	<label for="moyen">Moyen</label>
+	<input type="radio" name="diff" id="difficile" value="D">
+	<label for="difficile">Difficile</label>
+	<input type="radio" name="diff" id="tres_difficile" value="TD">
+	<label for="difficile">Très Difficile</label>
+	</div>
+	<br><br>
+
+	
+	<button type="submit" id="button">Valider</button>
+
+</form>
+
+</body>
+</html>

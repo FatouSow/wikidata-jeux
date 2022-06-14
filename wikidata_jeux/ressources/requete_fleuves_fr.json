@@ -1,0 +1,1959 @@
+{
+  "head": {
+    "vars": [
+      "reponse",
+      "reponseLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1265"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Colorado"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2981909"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Jutaí"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3097778"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río San Juan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q418366"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Akillik"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q546088"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Aniak (rivière)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q667197"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Swift"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q675651"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Otter Tail"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q859274"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Big Sioux"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q940488"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Sainte-Marie"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1497"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mississippi"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27035"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Río Grijalva"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27538"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Susquehanna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44163"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Koksoak"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3783"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amazone"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q589911"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Essequibo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q590533"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Caroní"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q607976"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Paranapanema"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q611388"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Huallaga"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284603"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Porcupine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q286340"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Klondike"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2237"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Saskatchewan Nord"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2249"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Liard"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q655251"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Meta"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q661805"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Arinos"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q737831"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Loa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776155"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Paranaíba"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q751347"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "San Joaquin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q788011"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Talachulitna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q847785"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Colorado"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q859175"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Big"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q318435"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Détroit"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q335575"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sacramento"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3411"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "fleuve Mackenzie"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q142148"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio São Francisco"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q386331"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Grande"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q472816"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Juruena"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q496570"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Potaro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q508582"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Corentyne"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5419"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Missouri"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60974"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière des Outaouais"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104437"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Yukon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134750"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "fleuve Saint-Laurent"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q392161"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Saguenay"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q393769"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tanana"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171840"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Caquetá"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171847"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Araguaia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179396"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paraguay"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118251"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Madeira"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q196183"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Wabash"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q142604"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Beni"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2251"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "fleuve Columbia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2262"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kootenay"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3292"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "fleuve Nelson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7592135"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Saint Vrain Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7811968"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ocoee"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4534"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Andalién"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200174"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Marañón"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200952"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ucayali"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1343322"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Desaguadero"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1349924"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Ventuari"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1363972"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Atrato"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2216"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Athabasca"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209590"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Urubamba"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191635"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Iguaçu"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270467"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bermejo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270569"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Pilcomayo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117615"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Mamoré"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131071"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Willamette"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220503"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Assiniboine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q269710"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "fleuve Fraser"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q817337"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Negro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q849693"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Madre de Dios"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191829"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Magdalena"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q385342"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Desaguadero"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3047"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Saskatchewan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3140"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Hudson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213782"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Putumayo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q214921"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Apurímac"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270627"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Colorado"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q331455"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "canal de Casiquiare"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q156006"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Rouge"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q156032"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Rouge"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18278"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Uruguay"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26271"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Purus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1478566"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Santa Cruz"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1513192"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Pará"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1757394"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Doce"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2314768"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Approuague"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2565430"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Dulce"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2220"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière de la Paix"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2226"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière des Esclaves"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853315"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Apure"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853332"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Cauca"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q859548"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Negro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131792"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Orénoque"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q160636"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Grande"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1121956"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Río Caura"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1146770"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cuyuni"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162365"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Salado del Norte"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1185369"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Demerara (fleuve)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179444"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Potomac"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182343"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Niagara"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118771"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Negro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q127892"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paraná"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2650411"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sinnamary"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2670262"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Jari"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2844812"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Solimões"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93360"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Biobío"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117526"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Juruá"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q941329"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rio Javari"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q955354"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Chubut"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1047596"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Guaviare"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1059928"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Arauca"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7055375"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "North Fork Big Thompson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5167806"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cooper River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5168069"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Coos"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6982165"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Navarro River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1054325"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Sainte-Claire"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1092043"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cimarron"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1108022"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Saint Francis"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1113020"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Colville"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1156321"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "D (fleuve)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1161204"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río San Juan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1200621"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Deshka"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1239783"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Severn"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1129218"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Balsas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1131514"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Coppermine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1146724"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cuyahoga"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1241991"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Albany"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1288110"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Shenango"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1339067"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Emory"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1370855"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Stony"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1390482"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Quinault"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1410560"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Rivière Roe"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1436431"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Takotna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4453762"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Taylor"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4906196"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Big River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5091574"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cheoah"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1468689"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Coco"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1536453"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Johnson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1544834"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kentucky"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1624702"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Holitna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1633005"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tyone"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1633955"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Lerma"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1677801"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tutuksuk"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1794942"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kwethluk"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1865830"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Little Susitna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1970278"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Conchos"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2000773"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "North Santiam"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2005508"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nushagak"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2005786"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nuyakuk"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2008746"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Obed"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2030974"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Russian River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2092571"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Stikine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2214785"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Salmon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2302661"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Río Grande de Santiago"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2315080"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Squirrel"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2352739"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Rock Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2372327"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "rivière Elbow"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2568291"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "río Grande de Matagalpa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2600106"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Yentna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2927472"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Buckland"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3048854"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Eek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3110716"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Goodhope"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3197645"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kivalina"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3357222"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Oshetna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3528394"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tikchik"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7986972"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "West Walker"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14684081"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Taylor Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14684485"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Fall"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14706056"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mancos"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49854821"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Big Spring Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34781055"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Clear Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926536"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Daddys Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43034621"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kahiltna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43145604"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tokositna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46625720"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Oconaluftee"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<meta charset="UTF-8">
+</head>
+<body>
+
+<div class="retour">
+    <a href="{{ url_for('accueil') }}" class="bouton">Home</a>
+</div>
+
+<div class="listePucesI">
+    <h1> Well done ! The answer is {{reponse}} </h1>
+    <p style="text-align:center"><b>Here are some information about the answer :</b> </p>
+    <ul>
+    {%for k,v in resume_bon.items() %} 
+      
+        <li><b>{{k}} :</b> {{v}}</li> 
+    {%endfor%} 
+    </ul>
+</div>
+<div id="centre">
+    <a href="{{url_for('demarrer_jeu_quiz')}}" class="bouton">Continue</a>
+</div>
+</body>
+</html>

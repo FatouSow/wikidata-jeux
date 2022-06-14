@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<!--a commenter apres traitement css-->
+<!--<link rel="stylesheet" href="../static/style.css">-->
+<meta charset="UTF-8">
+</head>
+<body>
+<div class="retour">
+<a href="{{ url_for('accueil') }}" class="bouton">Accueil </a>
+</div>
+<h1>Jeu des définitions</h1>
+
+<div class="listeJeux">
+	<p><b>Définition :</b> {{definition}}</p>
+	<p><b>Indice :</b> {{indice}} </p>
+
+	<form action = "/jeu_dico/reponse" method="POST">
+		<input type="text" name="proposition" class="zone_texte"/>
+		<br>
+		<br>
+		<button type="submit" id="button">Valider</button>
+		<!--proposer je ne sais pas à l'utilisateur-->
+		<input type="hidden" name="reponse" value="{{reponse}}" />
+	</form>
+
+</div>
+
+
+
+
+
+</body>
+</html>

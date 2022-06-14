@@ -1,0 +1,1937 @@
+{
+  "head": {
+    "vars": [
+      "reponse",
+      "reponseLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1530"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bagdad"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3616"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Téhéran"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3070"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "San José"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Washington"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q727"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amsterdam"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q956"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Pékin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Berne"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Berlin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1362"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Islamabad"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1519"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Abou Dabi"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q90"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paris"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1748"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Copenhague"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q216"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vilnius"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1354"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dacca"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q269"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tachkent"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1858"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Hanoï"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1947"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Djouba"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q85"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Le Caire"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1865"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kuala Lumpur"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Rome"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Varsovie"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2449"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mogadiscio"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q585"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Oslo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1861"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bangkok"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2471"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sanaa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1963"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Khartoum"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3551"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Rabat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q956"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Pékin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q472"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sofia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3037"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Katmandou"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3579"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tripoli"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1867"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Taipei"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q597"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Lisbonne"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q437"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ljubljana"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q987"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "New Delhi"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3688"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nouakchott"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3604"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Djibouti"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3274"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Managua"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q727"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amsterdam"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1435"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Zagreb"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3703"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bamako"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3572"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tunis"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1085"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Prague"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1489"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mexico"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3739"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bissau"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1486"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Buenos Aires"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3642"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asmara"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3718"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dakar"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3692"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Riyad"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1533"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Caracas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3751"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Praia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1520"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nour-Soultan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1524"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Athènes"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1490"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tokyo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3726"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Banjul"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1335"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Montevideo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3748"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Monrovia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3787"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Abuja"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3766"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Damas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3733"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Conakry"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3674"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Niamey"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1555"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Guatemala-Ville"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1754"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Stockholm"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1757"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Helsinki"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3768"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Yamoussoukro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3799"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Porto-Novo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3805"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1563"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "La Havane"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1761"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dublin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1773"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Riga"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3792"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Lomé"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3838"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kinshasa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3826"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mascate"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3780"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Freetown"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1748"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Copenhague"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3832"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bangui"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1844"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vaduz"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3866"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dodoma"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3876"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Lilongwe"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3844"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Brazzaville"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3889"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Maputo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1764"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Reykjavik"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3881"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Lusaka"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1930"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ottawa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3808"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Yaoundé"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1850"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Phnom Penh"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3859"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kigali"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3897"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Luanda"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3894"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kampala"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1780"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bratislava"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1863"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Andorre-la-Vieille"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3901"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Moroni"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1781"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Budapest"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3935"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Windhoek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3820"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Beyrouth"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2280"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Minsk"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1770"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tallinn"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3861"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Doha"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3909"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Maseru"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2868"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Lima"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3921"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Harare"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3940"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Victoria"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5838"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kaboul"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3915"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Antananarivo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2844"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Brasilia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2467"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nassau"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3932"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "São Tomé"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2887"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Santiago"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2933"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asuncion"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9326"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vientiane"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2841"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bogota"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8684"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Séoul"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3919"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gaborone"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3110"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "San Salvador"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9347"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Malé"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2900"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Quito"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3561"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Alger"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16666"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nankin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9270"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Thimphou"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35381"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Colombo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2907"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sucre"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23438"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Achgabat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3114"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Canberra"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9361"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bichkek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q129352"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Stepanakert"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3640"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ankara"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3659"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "N'Djaména"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3616"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Téhéran"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41963"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sri Jayawardenapura"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9365"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Douchanbé"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9279"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bandar Seri Begawan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3238"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tegucigalpa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25270"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Pristina"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q168652"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Hargeisa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9310"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dili"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30958"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Philipsburg"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131694"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Aden"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18808"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Pyongyang"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3624"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Addis-Abeba"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q170482"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Avarua"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10690"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cardiff"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3856"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nicosie"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132572"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tiraspol"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3761"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Accra"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3870"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nairobi"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19660"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bucarest"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19689"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tirana"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q167551"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gitega"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10717"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Georgetown"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3926"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Pretoria"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5465"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Le Cap"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12919"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Majuro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34820"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Saint-Domingue"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36262"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Saint John's"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23800"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "La Valette"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37701"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bloemfontein"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23430"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Oulan-Bator"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36281"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Roseau"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36260"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Apia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37806"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Port-Vila"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23564"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Podgorica"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31026"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Yaren"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36526"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Port Moresby"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38807"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Suva"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41547"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Saint-Georges"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40921"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Honiara"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41699"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Castries"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34126"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Funafuti"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42751"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Palikir"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q515229"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ngerulmud"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34261"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Port-au-Prince"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131233"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Tarawa-Sud"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41295"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Basseterre"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41474"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kingstown"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34692"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kingston"
+        }
+      }
+    ]
+  }
+}

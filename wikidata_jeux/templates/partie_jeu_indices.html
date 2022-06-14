@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<!--a commenter apres traitement css-->
+<!--<link rel="stylesheet" href="../static/style_app.css">-->
+<meta charset="UTF-8">
+</head>
+<body>
+
+<div class="retour">
+<a href="{{ url_for('accueil') }}" class="bouton">Accueil </a>
+</div>
+<div class="all">
+    <h1>Jeu des indices</h1>
+    <div id="gauche">
+        <div class="listePucesI">
+            <ul>
+                <p><b> Indices : </b></p>
+                {%for i in indices%} 
+              
+                <li><b>{{i[0]}} :</b> {{i[1]}}</li> 
+
+            {%endfor%} 
+            </ul>
+        </div>
+    </div>
+    <div id="droite">
+        <div class="reponse">
+            <form action = "/jeu_indices/reponse" method="POST">
+                    <p><b> Quelle est votre réponse ?</b></p>
+                    <input type="text" name="proposition" class="zone_texte"/>
+                    <br>
+                    <br>
+                    <button type="submit" id="button">Valider</button>
+                    <!--proposer je ne sais pas à l'utilisateur-->
+                    <input type="hidden" name="reponse" value="{{reponse}}" />
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>

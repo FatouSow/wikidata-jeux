@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+
+<meta charset="UTF-8">
+</head>
+<body>
+
+<div class="retour">
+<a href="{{ url_for('accueil') }}" class="bouton">Accueil</a>
+</div>
+
+<h1>Paramétrer votre jeu </h1>
+
+<form action = "/jeu_quiz/partie" method="POST" class="listeJeux">
+	<div class="language">
+	<h2>Choisissez la langue</h2>
+	<input type="radio" name="langue" id="francais" value="fr" checked>
+	<label for="francais">Français</label>
+	<input type="radio" name="langue" id="anglais" value="en">
+	<label for="francais">Anglais</label>
+	</div>
+	<br><br>
+
+	
+	<button type="submit" id="button">Valider</button>
+</form>
+
+
+</body>
+</html>

@@ -1,0 +1,870 @@
+{
+  "head": {
+    "vars": [
+      "reponse",
+      "reponseLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q349391"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Helen Mirren"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q873"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Meryl Streep"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q544465"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kathy Bates"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1033016"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Halle Berry"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3925"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Grace Kelly"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7088045"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Olivia Colman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4636"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Barbra Streisand"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1111542"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Joanne Woodward"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12003"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cher"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14441"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Liza Minnelli"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8927"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Marion Cotillard"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18994"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Luise Rainer"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29328"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Brie Larson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34460"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gwyneth Paltrow"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34851"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Elizabeth Taylor"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37459"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Nicole Kidman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37876"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Natalie Portman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40523"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Julia Roberts"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40475"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Joan Crawford"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40791"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sandra Bullock"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41142"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jane Fonda"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41351"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jodie Foster"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42786"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Audrey Hepburn"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44063"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Reese Witherspoon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43247"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ingrid Bergman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43252"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sophia Loren"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56011"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Anna Magnani"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56016"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Katharine Hepburn"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q71206"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Bette Davis"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80405"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Julianne Moore"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80966"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Cate Blanchett"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93187"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Hilary Swank"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q80046"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Charlize Theron"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95019"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Norma Shearer"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95068"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Olivia de Havilland"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95076"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Joan Fontaine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95026"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Shirley MacLaine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95055"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jane Wyman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95089"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ginger Rogers"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102642"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Diane Keaton"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104109"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mary Pickford"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105660"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Holly Hunter"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106126"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Simone Signoret"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q122614"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Renée Zellweger"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q129429"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Vivien Leigh"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133050"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Susan Sarandon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q147077"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Emma Stone"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q161819"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Julie Andrews"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q168721"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Faye Dunaway"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q168724"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Emma Thompson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q170574"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Helen Hunt"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q172653"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Maggie Smith"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q173585"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jessica Lange"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q181413"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Julie Christie"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182372"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Louise Fletcher"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182104"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jessica Tandy"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182408"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Glenda Jackson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182462"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Janet Gaynor"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182486"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Greer Garson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q183532"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Anne Bancroft"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q187033"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sally Field"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189490"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jennifer Lawrence"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189895"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jennifer Jones"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q190994"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Sissy Spacek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191027"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Patricia Neal"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202765"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Kate Winslet"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q203819"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Claudette Colbert"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204299"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Frances McDormand"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q211144"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ellen Burstyn"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213287"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Marlee Matlin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213302"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Helen Hayes"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q228650"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Geraldine Page"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q229313"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Jessica Chastain"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q248837"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Susan Hayward"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q253282"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Marie Dressler"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q253298"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Judy Holliday"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q253308"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Shirley Booth"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q253384"
+        },
+        "reponseLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Loretta Young"
+        }
+      }
+    ]
+  }
+}

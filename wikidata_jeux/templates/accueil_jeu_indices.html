@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<!--a commenter apres traitement css-->
+<!--<link rel="stylesheet" href="../static/style.css">-->
+<meta charset="UTF-8">
+</head>
+<body>
+<div class="retour">
+<a href="{{ url_for('accueil') }}" class="bouton">Accueil</a>
+</div>
+
+<h1>Paramétrer votre jeu </h1>
+
+<form action = "/jeu_indices/partie" method="POST" class="listeJeux">
+	<div class="language">
+	<h2>Choisissez la langue</h2>
+	<input type="radio" name="langue" id="francais" value="fr" checked>
+	<label for="francais">Français</label>
+	<input type="radio" name="langue" id="anglais" value="en">
+	<label for="francais">Anglais</label>
+	</div>
+
+	<div class="difficulty">
+	<h2> Choisissez le niveau de difficulté </h2>
+	<input type="radio" name="diff" id="facile" value="F">
+	<label for="facile">Facile</label>
+	<input type="radio" name="diff" id="moyen" value="M">
+	<label for="facile">Moyen</label>
+	<input type="radio" name="diff" id="difficile" value="D" checked>
+	<label for="moyen">Difficile</label>
+	</div>
+	
+
+	<div class="theme">
+	<h2> Choisissez un thème </h2>
+	<input type="radio" name="theme" id="actrices" value="A">
+	<label for="actrices">Actrices oscarisées</label>
+	<br>
+	<input type="radio" name="theme" id="capitales" value="C">
+	<label for="capitales">Capitales du monde</label>
+	<br>
+	<input type="radio" name="theme" id="peintures" value="P" checked>
+	<label for="peintures">Tableaux célèbres</label>
+	<br>
+	<input type="radio" name="theme" id="fleuves" value="F">
+	<label for="fleuves">Fleuves d'Amérique du Nord et d'Amérique du Sud</label>
+	<br>
+	
+	
+	</div>
+	<br><br>
+	<button type="submit" id="button">Valider</button>
+
+</form>
+
+</body>
+</html>

@@ -1,0 +1,2807 @@
+[
+  {
+    "question": {
+      "en": "Who developed Skype?",
+      "fr": "Qui a développé Skype ?"
+    },
+    "reponse": {
+      "Q246125": {
+        "fr": "Microsoft Skype Division",
+        "en": "Skype Technologies"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "In which U.S. state is Area 51 located?",
+      "fr": "Dans quel Etat des Etats-Unis se situe l'Area 51 ?"
+    },
+    "reponse": {
+      "Q1227": {
+        "fr": "Nevada",
+        "en": "Nevada"
+      }
+    },
+    "candidats": {
+      "Q824": {
+        "fr": "Oregon",
+        "en": "Oregon"
+      },
+      "Q1221": {
+        "fr": "Idaho",
+        "en": "Idaho"
+      },
+      "Q1522": {
+        "fr": "Nouveau-Mexique",
+        "en": "New Mexico"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the mayor of New York City?",
+      "fr": "Qui est le maire de la cité de New York ?"
+    },
+    "reponse": {
+      "Q4911497": {
+        "fr": "Bill de Blasio",
+        "en": "Bill de Blasio"
+      }
+    },
+    "candidats": {
+      "Q260464": {
+        "fr": "Ed Balls",
+        "en": "Ed Balls"
+      },
+      "Q880776": {
+        "fr": "William Scranton",
+        "en": "William Scranton"
+      },
+      "Q2094491": {
+        "fr": "Tip O'Neill",
+        "en": "Tip O'Neill"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Where did Abraham Lincoln die?",
+      "fr": "Où est décédé Abraham Lincoln ?"
+    },
+    "reponse": {
+      "Q4799733": {
+        "fr": "Petersen House",
+        "en": "Petersen House"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which movies starring Brad Pitt were directed by Guy Ritchie?",
+      "fr": "Quels films avec Brad Pitt sont réalisés par Guy Ritchie ?"
+    },
+    "reponse": {
+      "Q335160": {
+        "fr": "Snatch : Tu braques ou tu raques",
+        "en": "Snatch"
+      }
+    },
+    "candidats": {
+      "Q740020": {
+        "fr": "The Girl Next Door",
+        "en": "The Girl Next Door"
+      },
+      "Q1345585": {
+        "fr": "Agent double",
+        "en": "Breach"
+      },
+      "Q550529": {
+        "fr": "Strange Days",
+        "en": "Strange Days"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which other weapons did the designer of the Uzi develop?",
+      "fr": "Quelles autres armes ont été développées par le créateur du Uzi ?"
+    },
+    "reponse": {
+      "Q3867436": {
+        "en": "Minebea PM-9"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who is the owner of Universal Studios?",
+      "fr": "Qui est le propriétaire de Universal Studios?"
+    },
+    "reponse": {
+      "Q1113804": {
+        "fr": "Comcast",
+        "en": "Comcast"
+      }
+    },
+    "candidats": {
+      "Q568532": {
+        "fr": "MGM Mirage",
+        "en": "MGM Resorts International"
+      },
+      "Q796719": {
+        "fr": "Sky Italia",
+        "en": "Sky Italia"
+      },
+      "Q724759": {
+        "fr": "NBCUniversal",
+        "en": "NBCUniversal"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which state of the USA has the highest population density?",
+      "fr": "Quel état des états unis a la densité de population la plus élevée?"
+    },
+    "reponse": {
+      "Q1408": {
+        "fr": "New Jersey",
+        "en": "New Jersey"
+      }
+    },
+    "candidats": {
+      "Q812": {
+        "fr": "Floride",
+        "en": "Florida"
+      },
+      "Q779": {
+        "fr": "Connecticut",
+        "en": "Connecticut"
+      },
+      "Q1384": {
+        "fr": "État de New York",
+        "en": "New York"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who wrote the book The pillars of the Earth?",
+      "fr": "Qui a écrit le livre Les piliers de la Terre ?"
+    },
+    "reponse": {
+      "Q210669": {
+        "fr": "Ken Follett",
+        "en": "Ken Follett"
+      }
+    },
+    "candidats": {
+      "Q1971168": {
+        "fr": "Paul Stewart",
+        "en": "Paul Stewart"
+      },
+      "Q455228": {
+        "fr": "Ian McDonald",
+        "en": "Ian McDonald"
+      },
+      "Q1970656": {
+        "fr": "Patrick Robinson",
+        "en": "Patrick Robinson"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which state of the United States of America has the highest density?",
+      "fr": "Quel état des USA a la plus grande densité ?"
+    },
+    "reponse": {
+      "Q1408": {
+        "fr": "New Jersey",
+        "en": "New Jersey"
+      }
+    },
+    "candidats": {
+      "Q812": {
+        "fr": "Floride",
+        "en": "Florida"
+      },
+      "Q779": {
+        "fr": "Connecticut",
+        "en": "Connecticut"
+      },
+      "Q1384": {
+        "fr": "État de New York",
+        "en": "New York"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the daughter of Ingrid Bergman married to?",
+      "fr": "Avec qui la fille d'Ingrid Bergman est-elle mariée ?"
+    },
+    "reponse": {
+      "Q41148": {
+        "fr": "Martin Scorsese",
+        "en": "Martin Scorsese"
+      }
+    },
+    "candidats": {
+      "Q287607": {
+        "fr": "Rob Reiner",
+        "en": "Rob Reiner"
+      },
+      "Q188792": {
+        "fr": "David Schwimmer",
+        "en": "David Schwimmer"
+      },
+      "Q179497": {
+        "fr": "Oliver Stone",
+        "en": "Oliver Stone"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the tallest player of the Atlanta Falcons?",
+      "fr": "Qui est le joueur le plus grand en taille chez les Atlanta Falcons ?"
+    },
+    "reponse": {
+      "Q1557707": {
+        "fr": "Matt Willig",
+        "en": "Matt Willig"
+      }
+    },
+    "candidats": {
+      "Q126710": {
+        "fr": "Warren Moon",
+        "en": "Warren Moon"
+      },
+      "Q3246612": {
+        "fr": "Shayne Graham",
+        "en": "Shayne Graham"
+      },
+      "Q440291": {
+        "fr": "Shannon Brown",
+        "en": "Shannon Brown"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Where did Hillel Slovak die?",
+      "fr": "Où est mort Hillel Slovak ?"
+    },
+    "reponse": {
+      "Q34006": {
+        "fr": "Hollywood",
+        "en": "Hollywood"
+      }
+    },
+    "candidats": {
+      "Q127856": {
+        "fr": "Beverly Hills",
+        "en": "Beverly Hills"
+      },
+      "Q488004": {
+        "fr": "Palm Springs",
+        "en": "Palm Springs"
+      },
+      "Q1337818": {
+        "fr": "Woodland Hills",
+        "en": "Woodland Hills"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Where do the Red Sox play?",
+      "fr": "Où les Red Sox ont-ils joué?"
+    },
+    "reponse": {
+      "Q49136": {
+        "fr": "Fenway Park",
+        "en": "Fenway Park"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the most frequent cause of death?",
+      "fr": "Quelle est la cause de décès la plus fréquente ?"
+    },
+    "reponse": {
+      "Q12152": {
+        "fr": "infarctus du myocarde",
+        "en": "myocardial infarction"
+      }
+    },
+    "candidats": {
+      "Q212961": {
+        "fr": "cancer du pancréas",
+        "en": "pancreatic cancer"
+      },
+      "Q181754": {
+        "fr": "insuffisance cardiaque",
+        "en": "heart failure"
+      },
+      "Q623031": {
+        "fr": "cancer du foie",
+        "en": "liver cancer"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the highest place of the Urals?",
+      "fr": "Quel est le plus haut lieu de l'Oural ?"
+    },
+    "reponse": {
+      "Q1142817": {
+        "fr": "mont Narodnaïa",
+        "en": "Mount Narodnaya"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who is the governor of Wyoming?",
+      "fr": "Qui est le gouverneur du Wyoming ?"
+    },
+    "reponse": {
+      "Q6767775": {
+        "fr": "Mark Gordon",
+        "en": "Mark Gordon"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Where did the architect of the Eiffel Tower study?",
+      "fr": "Où a-t-il étudié l'architecte de la Tour Eiffel ?"
+    },
+    "reponse": {
+      "Q1140013": {
+        "fr": "École spéciale d'architecture",
+        "en": "École Spéciale d'Architecture"
+      }
+    },
+    "candidats": {
+      "Q1546437": {
+        "fr": "université Paris-Dauphine",
+        "en": "Paris Dauphine University"
+      },
+      "Q481762": {
+        "fr": "École normale supérieure de jeunes filles",
+        "en": "École normale supérieure de jeunes filles"
+      },
+      "Q273631": {
+        "fr": "École pratique des hautes études",
+        "en": "École pratique des hautes études"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which pope succeeded John Paul II?",
+      "fr": "Quel pape a succédé à Jean-Paul II ?"
+    },
+    "reponse": {
+      "Q2494": {
+        "fr": "Benoît XVI",
+        "en": "Benedict XVI"
+      }
+    },
+    "candidats": {
+      "Q76268": {
+        "fr": "Julius Leopold Pagel",
+        "en": "Julius Leopold Pagel"
+      },
+      "Q38193": {
+        "fr": "Arthur Schopenhauer",
+        "en": "Arthur Schopenhauer"
+      },
+      "Q95233": {
+        "fr": "Ernst Heinrich Meier",
+        "en": "Ernst Heinrich Meier"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Where was JFK assassinated?",
+      "fr": "Où a été assassiné JFK ?"
+    },
+    "reponse": {
+      "Q3896131": {
+        "fr": "Parkland Memorial Hospital",
+        "en": "Parkland Memorial Hospital"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which beer originated in Ireland?",
+      "fr": "Quelle bière est originaire d'Irlande ?"
+    },
+    "reponse": {
+      "Q194297": {
+        "fr": "Guinness",
+        "en": "Guinness"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who produced the most films?",
+      "fr": "Qui a produit le plus de films ?"
+    },
+    "reponse": {
+      "Q1384661": {
+        "fr": "Jesse L. Lasky",
+        "en": "Jesse Louis Lasky"
+      }
+    },
+    "candidats": {
+      "Q299419": {
+        "fr": "Carlo Ponti",
+        "en": "Carlo Ponti"
+      },
+      "Q364342": {
+        "fr": "Darryl F. Zanuck",
+        "en": "Darryl F. Zanuck"
+      },
+      "Q1351511": {
+        "fr": "Walter Wanger",
+        "en": "Walter Wanger"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who created Goofy?",
+      "fr": "Qui a créé Goofy ?"
+    },
+    "reponse": {
+      "Q2420722": {
+        "fr": "Art Babbitt",
+        "en": "Art Babbitt"
+      }
+    },
+    "candidats": {
+      "Q2979058": {
+        "fr": "Cliff Nordberg",
+        "en": "Cliff Nordberg"
+      },
+      "Q2711171": {
+        "fr": "Milt Kahl",
+        "en": "Milt Kahl"
+      },
+      "Q2864559": {
+        "fr": "Art Riley",
+        "en": "Art Riley"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "In which city was the former Dutch queen Juliana buried?",
+      "fr": "Dans quelle ville l'ancienne reine du Danemark Juliana a-t-elle été enterrée?"
+    },
+    "reponse": {
+      "Q678611": {
+        "fr": "Nieuwe Kerk",
+        "en": "Nieuwe Kerk Delft"
+      }
+    },
+    "candidats": {
+      "Q1537972": {
+        "fr": "église Saint-Pierre",
+        "en": "Pieterskerk"
+      },
+      "Q1545193": {
+        "fr": "église Saint-Bavon de Haarlem",
+        "en": "Grote Kerk"
+      },
+      "Q936545": {
+        "fr": "cathédrale Saint-Martin d'Utrecht",
+        "en": "St. Martin's Cathedral"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who killed John Lennon?",
+      "fr": "Qui a tué John Lennon?"
+    },
+    "reponse": {
+      "Q80462": {
+        "fr": "Mark David Chapman",
+        "en": "Mark David Chapman"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which country has the most official languages?"
+    },
+    "reponse": {
+      "Q954": {
+        "fr": "Zimbabwe",
+        "en": "Zimbabwe"
+      }
+    },
+    "candidats": {
+      "Q1020": {
+        "fr": "Malawi",
+        "en": "Malawi"
+      },
+      "Q971": {
+        "fr": "République du Congo",
+        "en": "Republic of the Congo"
+      },
+      "Q686": {
+        "fr": "Vanuatu",
+        "en": "Vanuatu"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "In which U.S. state is Mount McKinley located?"
+    },
+    "reponse": {
+      "Q179950": {
+        "fr": "borough de Denali",
+        "en": "Denali Borough"
+      }
+    },
+    "candidats": {
+      "Q511723": {
+        "fr": "borough de Northwest Arctic",
+        "en": "Northwest Arctic Borough"
+      },
+      "Q512981": {
+        "fr": "borough de Haines",
+        "en": "Haines Borough"
+      },
+      "Q312742": {
+        "fr": "comté de Park",
+        "en": "Park County"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the highest mountain?"
+    },
+    "reponse": {
+      "Q945543": {
+        "fr": "Aiguille Crestone",
+        "en": "Crestone Needle"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which poet wrote the most books?"
+    },
+    "reponse": {
+      "Q198644": {
+        "fr": "Paul Bourget",
+        "en": "Paul Bourget"
+      }
+    },
+    "candidats": {
+      "Q132082": {
+        "fr": "Louis-Xavier de Ricard",
+        "en": "Louis-Xavier de Ricard"
+      },
+      "Q373251": {
+        "fr": "Alphonse de Châteaubriant",
+        "en": "Alphonse de Châteaubriant"
+      },
+      "Q1471610": {
+        "fr": "Frédéric Plessis",
+        "en": "Frédéric Plessis"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which musician wrote the most books?"
+    },
+    "reponse": {
+      "Q47162": {
+        "fr": "Romain Rolland",
+        "en": "Romain Rolland"
+      }
+    },
+    "candidats": {
+      "Q197935": {
+        "fr": "Jules Lemaître",
+        "en": "Jules Lemaître"
+      },
+      "Q42247": {
+        "fr": "Sully Prudhomme",
+        "en": "Sully Prudhomme"
+      },
+      "Q309702": {
+        "fr": "Alfred de Vigny",
+        "en": "Alfred de Vigny"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who wrote The Hunger Games?"
+    },
+    "reponse": {
+      "Q228624": {
+        "fr": "Suzanne Collins",
+        "en": "Suzanne Collins"
+      }
+    },
+    "candidats": {
+      "Q233424": {
+        "fr": "L. J. Smith",
+        "en": "L. J. Smith"
+      },
+      "Q173540": {
+        "fr": "Margaret Mitchell",
+        "en": "Margaret Mitchell"
+      },
+      "Q313377": {
+        "fr": "Thomas Harris",
+        "en": "Thomas Harris"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "For which label did Elvis record his first album?"
+    },
+    "reponse": {
+      "Q3415083": {
+        "fr": "RCA Victor",
+        "en": "RCA Victor"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Where is the residence of the prime minister of Spain?",
+      "fr": "Où se trouve la résidence du premier ministre d'Espagne ?"
+    },
+    "reponse": {
+      "Q1367970": {
+        "fr": "palais de La Moncloa",
+        "en": "Palace of Moncloa"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which actor was casted in the most movies?",
+      "fr": "Quel est l'acteur qui a joué dans le plus de films ?"
+    },
+    "reponse": {
+      "Q2735277": {
+        "fr": "Prem Nazir",
+        "en": "Prem Nazir"
+      }
+    },
+    "candidats": {
+      "Q2792151": {
+        "fr": "Jayiram Samal",
+        "en": "Jayiram Samal"
+      },
+      "Q967495": {
+        "fr": "Vadivelu",
+        "en": "Vadivelu"
+      },
+      "Q3519495": {
+        "fr": "Raghuvaran",
+        "en": "Raghuvaran"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the longest river?",
+      "fr": "Quelle est la rivière la plus longue?"
+    },
+    "reponse": {
+      "Q3392": {
+        "fr": "Nil",
+        "en": "Nile"
+      }
+    },
+    "candidats": {
+      "Q3503": {
+        "fr": "Congo",
+        "en": "Congo"
+      },
+      "Q182719": {
+        "fr": "lac Turkana",
+        "en": "Lake Turkana"
+      },
+      "Q4814791": {
+        "fr": "Nil Blanc",
+        "en": "White Nile"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the smallest city by area in Germany?",
+      "fr": "Quelle est la ville qui a la plus petite superficie en Allemagne ?"
+    },
+    "reponse": {
+      "Q522492": {
+        "fr": "Arnis",
+        "en": "Arnis"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the ruling party in Lisbon?",
+      "fr": "Quelle est le partie au pouvoir à Lisbonne ?"
+    },
+    "reponse": {
+      "Q847263": {
+        "fr": "Parti socialiste",
+        "en": "Socialist Party"
+      }
+    },
+    "candidats": {
+      "Q348125": {
+        "fr": "Parti de la justice (Turquie)",
+        "en": "Justice Party"
+      },
+      "Q1186034": {
+        "fr": "Parti démocrate",
+        "en": "Democrat Party"
+      },
+      "Q828392": {
+        "fr": "Parti populaire - Mouvement pour une Slovaquie démocratique",
+        "en": "People's Party – Movement for a Democratic Slovakia"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "How heavy is Jupiter's lightest moon?",
+      "fr": "Quel est le poids de la lune la plus légère de Jupiter ?"
+    },
+    "reponse": {
+      "Q16765": {
+        "fr": "Thébé",
+        "en": "Thebe"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who played Agent Smith in Matrix?",
+      "fr": "Qui a joué l'agent Smith dans Matrix ?"
+    },
+    "reponse": {
+      "Q42204": {
+        "fr": "Hugo Weaving",
+        "en": "Hugo Weaving"
+      }
+    },
+    "candidats": {
+      "Q217137": {
+        "fr": "Pete Postlethwaite",
+        "en": "Pete Postlethwaite"
+      },
+      "Q312702": {
+        "fr": "Jonathan Pryce",
+        "en": "Jonathan Pryce"
+      },
+      "Q223091": {
+        "fr": "Ian Holm",
+        "en": "Ian Holm"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the second highest mountain on Earth?",
+      "fr": "Quelle est la deuxième plus haute montagne de la Terre ?"
+    },
+    "reponse": {
+      "Q43512": {
+        "fr": "K2",
+        "en": "K2"
+      }
+    },
+    "candidats": {
+      "Q130736": {
+        "fr": "Nanga Parbat",
+        "en": "Nanga Parbat"
+      },
+      "Q15122": {
+        "fr": "Weisshorn",
+        "en": "Weisshorn"
+      },
+      "Q5472": {
+        "fr": "Hindou Kouch",
+        "en": "Hindu Kush"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which rockets were launched from Baikonur?",
+      "fr": "Quelles fusées ont été lancées depuis Baïkonour ?"
+    },
+    "reponse": {
+      "Q1393751": {
+        "fr": "Spoutnik (fusée)",
+        "en": "Sputnik"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "In which U.S. state is Fort Knox located?",
+      "fr": "Dans quel État américain se trouve Fort Knox ?"
+    },
+    "reponse": {
+      "Q1603": {
+        "fr": "Kentucky",
+        "en": "Kentucky"
+      }
+    },
+    "candidats": {
+      "Q1371": {
+        "fr": "Virginie-Occidentale",
+        "en": "West Virginia"
+      },
+      "Q1494": {
+        "fr": "Mississippi",
+        "en": "Mississippi"
+      },
+      "Q1415": {
+        "fr": "Indiana",
+        "en": "Indiana"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Give me all B-sides of the Ramones.",
+      "fr": "Donnez-moi toutes les faces B des Ramones."
+    },
+    "reponse": {
+      "Q91353165": {
+        "fr": "Havana Affair",
+        "en": "Havana Affair"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Give me all breeds of the German Shepherd dog.",
+      "fr": "Donnez-moi toutes les races de berger allemand."
+    },
+    "reponse": {
+      "Q28442893": {
+        "en": "Adel V.Leonberg White German Shepherds"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the largest country in the world?",
+      "fr": "Quel est le plus grand pays du monde ?"
+    },
+    "reponse": {
+      "Q16": {
+        "fr": "Canada",
+        "en": "Canada"
+      }
+    },
+    "candidats": {
+      "Q865": {
+        "fr": "Taïwan",
+        "en": "Taiwan"
+      },
+      "Q668": {
+        "fr": "Inde",
+        "en": "India"
+      },
+      "Q334": {
+        "fr": "Singapour",
+        "en": "Singapore"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the largest city in america?",
+      "fr": "Quelle est la plus grande ville d'Amérique ?"
+    },
+    "reponse": {
+      "Q60": {
+        "fr": "New York",
+        "en": "New York City"
+      }
+    },
+    "candidats": {
+      "Q65": {
+        "fr": "Los Angeles",
+        "en": "Los Angeles"
+      },
+      "Q1297": {
+        "fr": "Chicago",
+        "en": "Chicago"
+      },
+      "Q100": {
+        "fr": "Boston",
+        "en": "Boston"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who was the pope that founded the Vatican Television?",
+      "fr": "Qui était le pape qui a fondé la télévision du Vatican ?"
+    },
+    "reponse": {
+      "Q989": {
+        "fr": "Jean-Paul II",
+        "en": "John Paul II"
+      }
+    },
+    "candidats": {
+      "Q2042": {
+        "fr": "Charles de Gaulle",
+        "en": "Charles de Gaulle"
+      },
+      "Q80976": {
+        "fr": "Philip Mountbatten",
+        "en": "Prince Philip, Duke of Edinburgh"
+      },
+      "Q193236": {
+        "fr": "Gabriele D'Annunzio",
+        "en": "Gabriele D'Annunzio"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who discovered Ceres?",
+      "fr": "Qui a découvert Cérès?"
+    },
+    "reponse": {
+      "Q14280": {
+        "fr": "Giuseppe Piazzi",
+        "en": "Giuseppe Piazzi"
+      }
+    },
+    "candidats": {
+      "Q76966": {
+        "fr": "Johann Elert Bode",
+        "en": "Johann Elert Bode"
+      },
+      "Q311220": {
+        "fr": "James Craig Watson",
+        "en": "James Craig Watson"
+      },
+      "Q57466": {
+        "fr": "Christoph Scheiner",
+        "en": "Christoph Scheiner"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the king of the Netherlands?",
+      "fr": "Qui est le roi des pays-bas?"
+    },
+    "reponse": {
+      "Q154952": {
+        "fr": "Willem-Alexander des Pays-Bas",
+        "en": "Willem-Alexander of the Netherlands"
+      }
+    },
+    "candidats": {
+      "Q29574": {
+        "fr": "Béatrix des Pays-Bas",
+        "en": "Beatrix of the Netherlands"
+      },
+      "Q154946": {
+        "fr": "Juliana des Pays-Bas",
+        "en": "Juliana of the Netherlands"
+      },
+      "Q150747": {
+        "fr": "Wilhelmine des Pays-Bas",
+        "en": "Wilhelmina of the Netherlands"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the alma mater of the chancellor of Germany Angela Merkel?",
+      "fr": "Quelle Université la chancelière allemande Angela Merkel est-elle diplômée?"
+    },
+    "reponse": {
+      "Q154804": {
+        "fr": "université de Leipzig",
+        "en": "Leipzig University"
+      }
+    },
+    "candidats": {
+      "Q185246": {
+        "fr": "université d’Uppsala",
+        "en": "Uppsala University"
+      },
+      "Q156598": {
+        "fr": "université de Leyde",
+        "en": "Leiden University"
+      },
+      "Q154561": {
+        "fr": "université Friedrich-Schiller d'Iéna",
+        "en": "University of Jena"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who wrote the book Les Piliers de la terre?",
+      "fr": "Qui a écrit le livre les Piliers de la Terre?"
+    },
+    "reponse": {
+      "Q210669": {
+        "fr": "Ken Follett",
+        "en": "Ken Follett"
+      }
+    },
+    "candidats": {
+      "Q1971168": {
+        "fr": "Paul Stewart",
+        "en": "Paul Stewart"
+      },
+      "Q455228": {
+        "fr": "Ian McDonald",
+        "en": "Ian McDonald"
+      },
+      "Q1970656": {
+        "fr": "Patrick Robinson",
+        "en": "Patrick Robinson"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which airports does Yeti Airlines serve?",
+      "fr": "Quels sont les aéroports desservis par Yeti Airlines?"
+    },
+    "reponse": {
+      "Q61066": {
+        "fr": "aéroport Tribhuvan de Katmandou",
+        "en": "Tribhuvan International Airport"
+      }
+    },
+    "candidats": {
+      "Q767753": {
+        "fr": "aéroport international d'Anchorage Ted-Stevens",
+        "en": "Ted Stevens Anchorage International Airport"
+      },
+      "Q821750": {
+        "fr": "aéroport international OR Tambo",
+        "en": "OR Tambo International Airport"
+      },
+      "Q1142219": {
+        "fr": "aéroport international Jorge Chávez",
+        "en": "Jorge Chávez International Airport"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Where is the birthplace of Goethe?",
+      "fr": "Où est né Goethe?"
+    },
+    "reponse": {
+      "Q1794": {
+        "fr": "Francfort-sur-le-Main",
+        "en": "Frankfurt am Main"
+      }
+    },
+    "candidats": {
+      "Q1718": {
+        "fr": "Düsseldorf",
+        "en": "Düsseldorf"
+      },
+      "Q1022": {
+        "fr": "Stuttgart",
+        "en": "Stuttgart"
+      },
+      "Q1721": {
+        "fr": "Wiesbaden",
+        "en": "Wiesbaden"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the highest mountain in Saxony Germany?",
+      "fr": "Quelle est la plus haute montagne allemande de Saxe ?"
+    },
+    "reponse": {
+      "Q164561": {
+        "fr": "Fichtelberg",
+        "en": "Fichtelberg"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who is the current federal minister of finance in Germany?",
+      "fr": "Qui est le ministre fédéral des Finances l'actuel en Allemagne ?"
+    },
+    "reponse": {
+      "Q61053": {
+        "fr": "Olaf Scholz",
+        "en": "Olaf Scholz"
+      }
+    },
+    "candidats": {
+      "Q61051": {
+        "fr": "Winfried Kretschmann",
+        "en": "Winfried Kretschmann"
+      },
+      "Q104678": {
+        "fr": "Bodo Ramelow",
+        "en": "Bodo Ramelow"
+      },
+      "Q61604": {
+        "fr": "Jens Böhrnsen",
+        "en": "Jens Böhrnsen"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "In which country is Mecca located?",
+      "fr": "Dans quel pays se trouve la Mecque ?"
+    },
+    "reponse": {
+      "Q851": {
+        "fr": "Arabie saoudite",
+        "en": "Saudi Arabia"
+      }
+    },
+    "candidats": {
+      "Q846": {
+        "fr": "Qatar",
+        "en": "Qatar"
+      },
+      "Q810": {
+        "fr": "Jordanie",
+        "en": "Jordan"
+      },
+      "Q954": {
+        "fr": "Zimbabwe",
+        "en": "Zimbabwe"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who played Gus Fring in Breaking Bad?",
+      "fr": "Qui a joué Gus Fring dans la série Breaking Bad ?"
+    },
+    "reponse": {
+      "Q726142": {
+        "fr": "Giancarlo Esposito",
+        "en": "Giancarlo Esposito"
+      }
+    },
+    "candidats": {
+      "Q320052": {
+        "fr": "Vincent D'Onofrio",
+        "en": "Vincent D'Onofrio"
+      },
+      "Q621490": {
+        "fr": "Bob Balaban",
+        "en": "Bob Balaban"
+      },
+      "Q355163": {
+        "fr": "Bruce Davison",
+        "en": "Bruce Davison"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "In which state Penn State University is located?",
+      "fr": "Dans quel état se trouve la Penn State University ?"
+    },
+    "reponse": {
+      "Q1400": {
+        "fr": "Pennsylvanie",
+        "en": "Pennsylvania"
+      }
+    },
+    "candidats": {
+      "Q1204": {
+        "fr": "Illinois",
+        "en": "Illinois"
+      },
+      "Q1391": {
+        "fr": "Maryland",
+        "en": "Maryland"
+      },
+      "Q1370": {
+        "fr": "Virginie",
+        "en": "Virginia"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the biggest stadium in Spain?",
+      "fr": "Quel est le plus grand stade d'Espagne ?"
+    },
+    "reponse": {
+      "Q159848": {
+        "fr": "Camp Nou",
+        "en": "Camp Nou"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the location of the Houses of Parliament?",
+      "fr": "Quel est l'emplacement des Chambres du Parlement ?"
+    },
+    "reponse": {
+      "Q179351": {
+        "fr": "cité de Westminster",
+        "en": "City of Westminster"
+      }
+    },
+    "candidats": {
+      "Q188801": {
+        "fr": "borough royal de Kensington et Chelsea",
+        "en": "Royal Borough of Kensington and Chelsea"
+      },
+      "Q202088": {
+        "fr": "borough londonien de Camden",
+        "en": "London Borough of Camden"
+      },
+      "Q32515": {
+        "fr": "Borough londonien de Richmond upon Thames",
+        "en": "London Borough of Richmond upon Thames"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who was the first King of England?",
+      "fr": "Qui était le premier roi d'Angleterre ?"
+    },
+    "reponse": {
+      "Q83476": {
+        "fr": "Alfred le Grand",
+        "en": "Alfred the Great"
+      }
+    },
+    "candidats": {
+      "Q133028": {
+        "fr": "Richard III",
+        "en": "Richard III of England"
+      },
+      "Q160101": {
+        "fr": "Adolphe de Nassau",
+        "en": "Adolf, King of the Romans"
+      },
+      "Q137814": {
+        "fr": "Jacques V d'Écosse",
+        "en": "James V of Scotland"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the editor of Forbes?",
+      "fr": "Qui est le rédacteur en chef de Forbes ?"
+    },
+    "reponse": {
+      "Q780842": {
+        "fr": "Steve Forbes",
+        "en": "Steve Forbes"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who is the youngest Darts player?",
+      "fr": "Qui est le plus jeune joueur de fléchettes ?"
+    },
+    "reponse": {
+      "Q59660328": {
+        "fr": "Leighton Bennett",
+        "en": "Leighton Bennett"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which river does the Brooklyn Bridge cross?",
+      "fr": "Quelle rivière traverse le pont de Brooklyn ?"
+    },
+    "reponse": {
+      "Q212862": {
+        "fr": "East River",
+        "en": "East River"
+      }
+    },
+    "candidats": {
+      "Q143762": {
+        "fr": "Delaware",
+        "en": "Delaware River"
+      },
+      "Q335575": {
+        "fr": "Sacramento",
+        "en": "Sacramento River"
+      },
+      "Q134750": {
+        "fr": "fleuve Saint-Laurent",
+        "en": "St. Lawrence River"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is 8th president of US?",
+      "fr": "Qui est le 8ème président des États-Unis ?"
+    },
+    "reponse": {
+      "Q11820": {
+        "fr": "Martin Van Buren",
+        "en": "Martin Van Buren"
+      }
+    },
+    "candidats": {
+      "Q366825": {
+        "fr": "George S. Mickelson",
+        "en": "George S. Mickelson"
+      },
+      "Q201646": {
+        "fr": "George Clinton",
+        "en": "George Clinton"
+      },
+      "Q297308": {
+        "fr": "William Henry Seward",
+        "en": "William H. Seward"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who developed the video game World of Warcraft?",
+      "fr": "Qui a développé le jeu vidéo World of Warcraft ?"
+    },
+    "reponse": {
+      "Q178824": {
+        "fr": "Blizzard Entertainment",
+        "en": "Blizzard Entertainment"
+      }
+    },
+    "candidats": {
+      "Q628249": {
+        "fr": "Interplay Entertainment",
+        "en": "Interplay Entertainment"
+      },
+      "Q193559": {
+        "fr": "Valve Corporation",
+        "en": "Valve Corporation"
+      },
+      "Q14428": {
+        "fr": "Capcom",
+        "en": "Capcom"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the last work of Dan Brown?",
+      "fr": "Quelle est la dernière œuvre de Dan Brown ?"
+    },
+    "reponse": {
+      "Q30610044": {
+        "fr": "Origine",
+        "en": "Origin"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who is the author of the interpretation of dreams?",
+      "fr": "Qui est l'auteur de l'interprétation des rêves ?"
+    },
+    "reponse": {
+      "Q9215": {
+        "fr": "Sigmund Freud",
+        "en": "Sigmund Freud"
+      }
+    },
+    "candidats": {
+      "Q531345": {
+        "fr": "Thomas Digges",
+        "en": "Thomas Digges"
+      },
+      "Q7251": {
+        "fr": "Alan Turing",
+        "en": "Alan Turing"
+      },
+      "Q9358": {
+        "fr": "Friedrich Nietzsche",
+        "en": "Friedrich Nietzsche"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who developed Slack?",
+      "fr": "Qui a développé Slack ?"
+    },
+    "reponse": {
+      "Q7808625": {
+        "en": "Slack Technologies"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "In which programming language is GIMP written?",
+      "fr": "Dans quel langage de programmation GIMP est-il écrit?"
+    },
+    "reponse": {
+      "Q15777": {
+        "fr": "C",
+        "en": "C"
+      }
+    },
+    "candidats": {
+      "Q42478": {
+        "fr": "Perl",
+        "en": "Perl"
+      },
+      "Q81571": {
+        "fr": "Pascal",
+        "en": "Pascal"
+      },
+      "Q2407": {
+        "fr": "C++",
+        "en": "C++"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which university did Angela Merkel attend?",
+      "fr": "Quelles universités Angela Merkel a-t-elle visitées?"
+    },
+    "reponse": {
+      "Q154804": {
+        "fr": "université de Leipzig",
+        "en": "Leipzig University"
+      }
+    },
+    "candidats": {
+      "Q185246": {
+        "fr": "université d’Uppsala",
+        "en": "Uppsala University"
+      },
+      "Q156598": {
+        "fr": "université de Leyde",
+        "en": "Leiden University"
+      },
+      "Q154561": {
+        "fr": "université Friedrich-Schiller d'Iéna",
+        "en": "University of Jena"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the longest river in the world?",
+      "fr": "Quelle est la rivière la plus longue du monde?"
+    },
+    "reponse": {
+      "Q3392": {
+        "fr": "Nil",
+        "en": "Nile"
+      }
+    },
+    "candidats": {
+      "Q3503": {
+        "fr": "Congo",
+        "en": "Congo"
+      },
+      "Q182719": {
+        "fr": "lac Turkana",
+        "en": "Lake Turkana"
+      },
+      "Q4814791": {
+        "fr": "Nil Blanc",
+        "en": "White Nile"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who was the wife of U.S. president Lincoln?",
+      "fr": "Qui était l'épouse du président américain Lincoln ?"
+    },
+    "reponse": {
+      "Q215062": {
+        "fr": "Mary Todd Lincoln",
+        "en": "Mary Todd Lincoln"
+      }
+    },
+    "candidats": {
+      "Q237590": {
+        "fr": "Edith Roosevelt",
+        "en": "Edith Roosevelt"
+      },
+      "Q377506": {
+        "fr": "Robert M. La Follette",
+        "en": "Robert M. La Follette Jr."
+      },
+      "Q978918": {
+        "fr": "Robert Mosbacher",
+        "en": "Robert Mosbacher"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which species does an elephant belong?",
+      "fr": "A quelle espèce appartient l'éléphant ?"
+    },
+    "reponse": {
+      "Q7377": {
+        "fr": "mammifères",
+        "en": "mammal"
+      }
+    },
+    "candidats": {
+      "Q10908": {
+        "fr": "amphibien",
+        "en": "Amphibia"
+      },
+      "Q729": {
+        "fr": "animal",
+        "en": "animal"
+      },
+      "Q28319": {
+        "fr": "Lepidoptera",
+        "en": "Lepidoptera"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who composed the soundtrack for Cameron's Titanic?",
+      "fr": "Qui a composé la bande originale du Titanic de Cameron ?"
+    },
+    "reponse": {
+      "Q106221": {
+        "fr": "James Horner",
+        "en": "James Horner"
+      }
+    },
+    "candidats": {
+      "Q367032": {
+        "fr": "Alfred Newman",
+        "en": "Alfred Newman"
+      },
+      "Q213869": {
+        "fr": "James Newton Howard",
+        "en": "James Newton Howard"
+      },
+      "Q509538": {
+        "fr": "William Axt",
+        "en": "William Axt"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which electronics companies were founded in Beijing?",
+      "fr": "Quelles entreprises d'électronique ont été fondées à Pékin ?"
+    },
+    "reponse": {
+      "Q1636958": {
+        "fr": "Xiaomi",
+        "en": "Xiaomi"
+      }
+    },
+    "candidats": {
+      "Q2814117": {
+        "fr": "Robert Stephenson and Company",
+        "en": "Robert Stephenson and Company"
+      },
+      "Q193412": {
+        "fr": "Texas Instruments",
+        "en": "Texas Instruments"
+      },
+      "Q193007": {
+        "fr": "Soukhoï",
+        "en": "Sukhoi"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who was the successor of John F. Kennedy?",
+      "fr": "Qui était le successeur de John F. Kennedy ?"
+    },
+    "reponse": {
+      "Q9640": {
+        "fr": "Lyndon B. Johnson",
+        "en": "Lyndon B. Johnson"
+      }
+    },
+    "candidats": {
+      "Q11613": {
+        "fr": "Harry S. Truman",
+        "en": "Harry S Truman"
+      },
+      "Q34296": {
+        "fr": "Woodrow Wilson",
+        "en": "Woodrow Wilson"
+      },
+      "Q125414": {
+        "fr": "Pompée",
+        "en": "Pompey"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the mayor of Paris?",
+      "fr": "Qui est le maire de Paris ?"
+    },
+    "reponse": {
+      "Q2851133": {
+        "fr": "Anne Hidalgo",
+        "en": "Anne Hidalgo"
+      }
+    },
+    "candidats": {
+      "Q228977": {
+        "fr": "Martine Aubry",
+        "en": "Martine Aubry"
+      },
+      "Q270094": {
+        "fr": "Marisol Touraine",
+        "en": "Marisol Touraine"
+      },
+      "Q291644": {
+        "fr": "Erna Solberg",
+        "en": "Erna Solberg"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which Indian company has the most employees?",
+      "fr": "Quelle entreprise indienne a le plus d'employés ?"
+    },
+    "reponse": {
+      "Q3519720": {
+        "fr": "Indian Postal Service",
+        "en": "India Post"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who was John F. Kennedy's vice president?"
+    },
+    "reponse": {
+      "Q9640": {
+        "fr": "Lyndon B. Johnson",
+        "en": "Lyndon B. Johnson"
+      }
+    },
+    "candidats": {
+      "Q11613": {
+        "fr": "Harry S. Truman",
+        "en": "Harry S Truman"
+      },
+      "Q34296": {
+        "fr": "Woodrow Wilson",
+        "en": "Woodrow Wilson"
+      },
+      "Q125414": {
+        "fr": "Pompée",
+        "en": "Pompey"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which country does the creator of Miffy come from?"
+    },
+    "reponse": {
+      "Q29999": {
+        "fr": "Royaume des Pays-Bas",
+        "en": "Kingdom of the Netherlands"
+      }
+    },
+    "candidats": {
+      "Q15102440": {
+        "fr": "Royaume des Serbes, Croates et Slovènes",
+        "en": "Kingdom of Serbs, Croats and Slovenes"
+      },
+      "Q37024": {
+        "fr": "Serbie-et-Monténégro",
+        "en": "Serbia and Montenegro"
+      },
+      "Q6581823": {
+        "fr": "Pays-Bas méridionaux",
+        "en": "Southern Netherlands"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "In what city is the Heineken brewery?"
+    },
+    "reponse": {
+      "Q727": {
+        "fr": "Amsterdam",
+        "en": "Amsterdam"
+      }
+    },
+    "candidats": {
+      "Q34370": {
+        "fr": "Rotterdam",
+        "en": "Rotterdam"
+      },
+      "Q803": {
+        "fr": "Utrecht",
+        "en": "Utrecht"
+      },
+      "Q36600": {
+        "fr": "La Haye",
+        "en": "The Hague"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which city has the most inhabitants?"
+    },
+    "reponse": {
+      "Q8686": {
+        "fr": "Shanghaï",
+        "en": "Shanghai"
+      }
+    },
+    "candidats": {
+      "Q956": {
+        "fr": "Pékin",
+        "en": "Beijing"
+      },
+      "Q1867": {
+        "fr": "Taipei",
+        "en": "Taipei"
+      },
+      "Q36312": {
+        "fr": "Calgary",
+        "en": "Calgary"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is Donald Trump's main business?"
+    },
+    "reponse": {
+      "Q2462124": {
+        "fr": "The Trump Organization",
+        "en": "The Trump Organization"
+      }
+    },
+    "candidats": {
+      "Q466183": {
+        "fr": "Reebok",
+        "en": "Reebok"
+      },
+      "Q470517": {
+        "fr": "Amgen",
+        "en": "Amgen"
+      },
+      "Q306764": {
+        "fr": "Laboratoires Abbott",
+        "en": "Abbott Laboratories"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the mayor of the capital of French Polynesia?"
+    },
+    "reponse": {
+      "Q3309143": {
+        "fr": "Michel Buillard",
+        "en": "Michel Buillard"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the highest mountain in Italy?"
+    },
+    "reponse": {
+      "Q102174232": {
+        "en": "Central Pillar of Frêney"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the official language of Suriname?"
+    },
+    "reponse": {
+      "Q7411": {
+        "fr": "néerlandais",
+        "en": "Dutch"
+      }
+    },
+    "candidats": {
+      "Q35497": {
+        "fr": "grec ancien",
+        "en": "Ancient Greek"
+      },
+      "Q8108": {
+        "fr": "géorgien",
+        "en": "Georgian"
+      },
+      "Q8785": {
+        "fr": "arménien",
+        "en": "Armenian"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "In which city did Nikos Kazantzakis die?"
+    },
+    "reponse": {
+      "Q2833": {
+        "fr": "Fribourg-en-Brisgau",
+        "en": "Freiburg im Breisgau"
+      }
+    },
+    "candidats": {
+      "Q1720": {
+        "fr": "Mayence",
+        "en": "Mainz"
+      },
+      "Q3806": {
+        "fr": "Tübingen",
+        "en": "Tübingen"
+      },
+      "Q3033": {
+        "fr": "Göttingen",
+        "en": "Göttingen"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "In which country is the Limerick Lake?"
+    },
+    "reponse": {
+      "Q16": {
+        "fr": "Canada",
+        "en": "Canada"
+      }
+    },
+    "candidats": {
+      "Q865": {
+        "fr": "Taïwan",
+        "en": "Taiwan"
+      },
+      "Q668": {
+        "fr": "Inde",
+        "en": "India"
+      },
+      "Q334": {
+        "fr": "Singapour",
+        "en": "Singapore"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the mayor of Rotterdam?",
+      "fr": "Qui est le maire de Rotterdam?"
+    },
+    "reponse": {
+      "Q401107": {
+        "fr": "Ahmed Aboutaleb",
+        "en": "Ahmed Aboutaleb"
+      }
+    },
+    "candidats": {
+      "Q57295": {
+        "fr": "Ivan Gašparovič",
+        "en": "Ivan Gašparovič"
+      },
+      "Q471278": {
+        "fr": "Johannes Virolainen",
+        "en": "Johannes Virolainen"
+      },
+      "Q380970": {
+        "fr": "Jelle Zijlstra",
+        "en": "Jelle Zijlstra"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the largest city in Australia?",
+      "fr": "Quelle est la plus grande ville d'Australie?"
+    },
+    "reponse": {
+      "Q3130": {
+        "fr": "Sydney",
+        "en": "Sydney"
+      }
+    },
+    "candidats": {
+      "Q3141": {
+        "fr": "Melbourne",
+        "en": "Melbourne"
+      },
+      "Q34932": {
+        "fr": "Brisbane",
+        "en": "Brisbane"
+      },
+      "Q5112": {
+        "fr": "Adélaïde",
+        "en": "Adelaide"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who was married to president Chirac?",
+      "fr": "Qui a épousé le président Chirac?"
+    },
+    "reponse": {
+      "Q431115": {
+        "fr": "Bernadette Chirac",
+        "en": "Bernadette Chirac"
+      }
+    },
+    "candidats": {
+      "Q3507208": {
+        "fr": "Sylvia Bassot",
+        "en": "Sylvia Bassot"
+      },
+      "Q3144821": {
+        "fr": "Hélène Missoffe",
+        "en": "Hélène Missoffe"
+      },
+      "Q2977194": {
+        "fr": "Claude Chirac",
+        "en": "Claude Chirac"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the tallest basketball player?"
+    },
+    "reponse": {
+      "Q15920046": {
+        "fr": "Joel Embiid",
+        "en": "Joel Embiid"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "To which party does the mayor of Paris belong?"
+    },
+    "reponse": {
+      "Q170972": {
+        "fr": "Parti socialiste",
+        "en": "Socialist Party"
+      }
+    },
+    "candidats": {
+      "Q752435": {
+        "fr": "parti social-démocrate",
+        "en": "Social Democratic Party"
+      },
+      "Q192821": {
+        "fr": "Parti communiste français",
+        "en": "French Communist Party"
+      },
+      "Q1551163": {
+        "fr": "Parti démocratique populaire",
+        "en": "Peoples Democratic Party"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the Formula 1 race driver with the most races?"
+    },
+    "reponse": {
+      "Q9671": {
+        "fr": "Michael Schumacher",
+        "en": "Michael Schumacher"
+      }
+    },
+    "candidats": {
+      "Q42311": {
+        "fr": "Sebastian Vettel",
+        "en": "Sebastian Vettel"
+      },
+      "Q172728": {
+        "fr": "Stirling Moss",
+        "en": "Stirling Moss"
+      },
+      "Q10494": {
+        "fr": "Alain Prost",
+        "en": "Alain Prost"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What country is Sitecore from?"
+    },
+    "reponse": {
+      "Q35": {
+        "fr": "Danemark",
+        "en": "Denmark"
+      }
+    },
+    "candidats": {
+      "Q817": {
+        "fr": "Koweït",
+        "en": "Kuwait"
+      },
+      "Q334": {
+        "fr": "Singapour",
+        "en": "Singapore"
+      },
+      "Q398": {
+        "fr": "Bahreïn",
+        "en": "Bahrain"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Give me the birth place of Frank Sinatra."
+    },
+    "reponse": {
+      "Q138578": {
+        "fr": "Hoboken",
+        "en": "Hoboken"
+      }
+    },
+    "candidats": {
+      "Q489197": {
+        "fr": "Torrance",
+        "en": "Torrance"
+      },
+      "Q49202": {
+        "fr": "Greenwich",
+        "en": "Greenwich"
+      },
+      "Q584451": {
+        "fr": "Bethesda",
+        "en": "Bethesda"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the son of Sonny and Cher?"
+    },
+    "reponse": {
+      "Q979387": {
+        "fr": "Chaz Bono",
+        "en": "Chaz Bono"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the capital of Cameroon?"
+    },
+    "reponse": {
+      "Q3808": {
+        "fr": "Yaoundé",
+        "en": "Yaoundé"
+      }
+    },
+    "candidats": {
+      "Q3792": {
+        "fr": "Lomé",
+        "en": "Lomé"
+      },
+      "Q3897": {
+        "fr": "Luanda",
+        "en": "Luanda"
+      },
+      "Q3733": {
+        "fr": "Conakry",
+        "en": "Conakry"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the oldest child of Meryl Streep?"
+    },
+    "reponse": {
+      "Q15052227": {
+        "fr": "Henry Wolfe Gummer",
+        "en": "Henry Wolfe Gummer"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which scientist is known for the Manhattan Project and the Nobel Peace Prize?"
+    },
+    "reponse": {
+      "Q219982": {
+        "fr": "Józef Rotblat",
+        "en": "Joseph Rotblat"
+      }
+    },
+    "candidats": {
+      "Q465729": {
+        "fr": "Ernest William Brown",
+        "en": "Ernest William Brown"
+      },
+      "Q571640": {
+        "fr": "Frederick George Donnan",
+        "en": "Frederick G. Donnan"
+      },
+      "Q442983": {
+        "fr": "William Burnside",
+        "en": "William Burnside"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who composed the music for Harold and Maude?"
+    },
+    "reponse": {
+      "Q154216": {
+        "fr": "Cat Stevens",
+        "en": "Cat Stevens"
+      }
+    },
+    "candidats": {
+      "Q328753": {
+        "fr": "Gary Barlow",
+        "en": "Gary Barlow"
+      },
+      "Q214831": {
+        "fr": "David Archuleta",
+        "en": "David Archuleta"
+      },
+      "Q202246": {
+        "fr": "Morrissey",
+        "en": "Morrissey"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which city has the least inhabitants?"
+    },
+    "reponse": {
+      "Q2590944": {
+        "fr": "Reimerswaal",
+        "en": "Reimerswaal"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Where is Syngman Rhee buried?"
+    },
+    "reponse": {
+      "Q488897": {
+        "fr": "cimetière national de Séoul",
+        "en": "Seoul National Cemetery"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who wrote the book The Pillars of the Earth?"
+    },
+    "reponse": {
+      "Q210669": {
+        "fr": "Ken Follett",
+        "en": "Ken Follett"
+      }
+    },
+    "candidats": {
+      "Q1971168": {
+        "fr": "Paul Stewart",
+        "en": "Paul Stewart"
+      },
+      "Q455228": {
+        "fr": "Ian McDonald",
+        "en": "Ian McDonald"
+      },
+      "Q1970656": {
+        "fr": "Patrick Robinson",
+        "en": "Patrick Robinson"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which building after the Burj Khalifa has the most floors?"
+    },
+    "reponse": {
+      "Q104878954": {
+        "en": "Oblisco Capitale"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Where was Bach born?",
+      "fr": "Où est né Bach?"
+    },
+    "reponse": {
+      "Q7070": {
+        "fr": "Eisenach",
+        "en": "Eisenach"
+      }
+    },
+    "candidats": {
+      "Q6949": {
+        "fr": "Stade",
+        "en": "Stade"
+      },
+      "Q14889": {
+        "fr": "Schwabach",
+        "en": "Schwabach"
+      },
+      "Q7033": {
+        "fr": "Nordhausen",
+        "en": "Nordhausen"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which city has the oldest running metro?",
+      "fr": "Dans quelle ville est le métro le plus ancien?"
+    },
+    "reponse": {
+      "Q1524": {
+        "fr": "Athènes",
+        "en": "Athens"
+      }
+    },
+    "candidats": {
+      "Q133123": {
+        "fr": "Patras",
+        "en": "Patras"
+      },
+      "Q17151": {
+        "fr": "Thessalonique",
+        "en": "Thessaloniki"
+      },
+      "Q58976": {
+        "fr": "Le Pirée",
+        "en": "Piraeus"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who designed the Brooklyn Bridge?",
+      "fr": "Qui a conçu le pont de Brooklyn?"
+    },
+    "reponse": {
+      "Q77237": {
+        "fr": "John Augustus Roebling",
+        "en": "John Augustus Roebling"
+      }
+    },
+    "candidats": {
+      "Q261174": {
+        "fr": "Joseph Strauss",
+        "en": "Joseph Strauss"
+      },
+      "Q71886": {
+        "fr": "Ludwig Hoffmann",
+        "en": "Ludwig Hoffmann"
+      },
+      "Q1700096": {
+        "fr": "John Fowler",
+        "en": "Sir John Fowler, 1st Baronet"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the bridge with the longest span?"
+    },
+    "reponse": {
+      "Q827735": {
+        "fr": "Chaussée du roi Fahd",
+        "en": "King Fahd Causeway"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Who was buried in the Great Pyramid of Giza?"
+    },
+    "reponse": {
+      "Q256515": {
+        "fr": "Hétep-Hérès Ire",
+        "en": "Hetepheres I"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "In which UK city are the headquarters of the MI6?"
+    },
+    "reponse": {
+      "Q84": {
+        "fr": "Londres",
+        "en": "London"
+      }
+    },
+    "candidats": {
+      "Q23436": {
+        "fr": "Édimbourg",
+        "en": "Edinburgh"
+      },
+      "Q24826": {
+        "fr": "Liverpool",
+        "en": "Liverpool"
+      },
+      "Q18125": {
+        "fr": "Manchester",
+        "en": "Manchester"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who created Family Guy?"
+    },
+    "reponse": {
+      "Q188492": {
+        "fr": "Seth MacFarlane",
+        "en": "Seth MacFarlane"
+      }
+    },
+    "candidats": {
+      "Q434585": {
+        "fr": "Mike Judge",
+        "en": "Mike Judge"
+      },
+      "Q784009": {
+        "fr": "Danny Strong",
+        "en": "Danny Strong"
+      },
+      "Q44410": {
+        "fr": "Matt Stone",
+        "en": "Matt Stone"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What is the timezone in San Pedro de Atacama?"
+    },
+    "reponse": {
+      "Q5762": {
+        "fr": "UTC−04:00",
+        "en": "UTC−04:00"
+      }
+    },
+    "candidats": {
+      "Q5390": {
+        "fr": "UTC−05:00",
+        "en": "UTC−05:00"
+      },
+      "Q6513": {
+        "fr": "UTC−03:00",
+        "en": "UTC−03:00"
+      },
+      "Q6806": {
+        "fr": "UTC+05:00",
+        "en": "UTC+05:00"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What did Bruce Carver die from?"
+    },
+    "reponse": {
+      "Q12078": {
+        "fr": "cancer",
+        "en": "cancer"
+      }
+    },
+    "candidats": {
+      "Q47912": {
+        "fr": "cancer du poumon",
+        "en": "lung cancer"
+      },
+      "Q128581": {
+        "fr": "cancer du sein",
+        "en": "breast cancer"
+      },
+      "Q29496": {
+        "fr": "leucémie",
+        "en": "leukemia"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who wrote the song Hotel California?"
+    },
+    "reponse": {
+      "Q704399": {
+        "fr": "Don Felder",
+        "en": "Don Felder"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the capital of Canada?"
+    },
+    "reponse": {
+      "Q1930": {
+        "fr": "Ottawa",
+        "en": "Ottawa"
+      }
+    },
+    "candidats": {
+      "Q36312": {
+        "fr": "Calgary",
+        "en": "Calgary"
+      },
+      "Q28515": {
+        "fr": "Springfield",
+        "en": "Springfield"
+      },
+      "Q29364": {
+        "fr": "Montgomery",
+        "en": "Montgomery"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the mayor of Tel Aviv?"
+    },
+    "reponse": {
+      "Q114760": {
+        "fr": "Ron Huldai",
+        "en": "Ron Huldai"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the currency of the Czech Republic?"
+    },
+    "reponse": {
+      "Q131016": {
+        "fr": "couronne tchèque",
+        "en": "Czech koruna"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Show me Hemingway's autobiography."
+    },
+    "reponse": {
+      "Q2052363": {
+        "fr": "Paris est une fête",
+        "en": "A Moveable Feast"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "In which country does the Ganges start?"
+    },
+    "reponse": {
+      "Q668": {
+        "fr": "Inde",
+        "en": "India"
+      }
+    },
+    "candidats": {
+      "Q843": {
+        "fr": "Pakistan",
+        "en": "Pakistan"
+      },
+      "Q16": {
+        "fr": "Canada",
+        "en": "Canada"
+      },
+      "Q854": {
+        "fr": "Sri Lanka",
+        "en": "Sri Lanka"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the founder of Penguin Books?",
+      "fr": "Qui est le fondateur De Penguin Books?"
+    },
+    "reponse": {
+      "Q1263483": {
+        "fr": "Allen Lane",
+        "en": "Allen Lane"
+      }
+    },
+    "candidats": {
+      "Q1976976": {
+        "fr": "Nelson Doubleday",
+        "en": "Nelson Doubleday"
+      },
+      "Q15999138": {
+        "fr": "Michael Joseph",
+        "en": "Michael Joseph"
+      },
+      "Q6243946": {
+        "fr": "John Lane",
+        "en": "John Lane"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who wrote the Game of Thrones theme?",
+      "fr": "Qui a écrit la musique pour Game of Thrones?"
+    },
+    "reponse": {
+      "Q57577": {
+        "fr": "Ramin Djawadi",
+        "en": "Ramin Djawadi"
+      }
+    },
+    "candidats": {
+      "Q879456": {
+        "fr": "Reinhold Heil",
+        "en": "Reinhold Heil"
+      },
+      "Q1729367": {
+        "fr": "Karim Sebastian Elias",
+        "en": "Karim Sebastian Elias"
+      },
+      "Q865158": {
+        "fr": "Birger Heymann",
+        "en": "Birger Heymann"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who is the president of Eritrea?",
+      "fr": "Qui est le président de l'Érythrée?"
+    },
+    "reponse": {
+      "Q57348": {
+        "fr": "Issayas Afewerki",
+        "en": "Isaias Afwerki"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What is the highest mountain in Australia?",
+      "fr": "Quelle est la plus haute montagne d'Australie?"
+    },
+    "reponse": {
+      "Q178167": {
+        "fr": "mont Kosciuszko",
+        "en": "Mount Kosciuszko"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Give me the currency of China.",
+      "fr": "Donne - moi la monnaie chinoise."
+    },
+    "reponse": {
+      "Q39099": {
+        "fr": "renminbi",
+        "en": "renminbi"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "Which of Tim Burton's films had the highest budget?"
+    },
+    "reponse": {
+      "Q164417": {
+        "fr": "Les Noces funèbres",
+        "en": "Corpse Bride"
+      }
+    },
+    "candidats": {
+      "Q878774": {
+        "fr": "Bitch Slap",
+        "en": "Bitch Slap"
+      },
+      "Q615395": {
+        "fr": "L'Enfant miroir",
+        "en": "The Reflecting Skin"
+      },
+      "Q743463": {
+        "fr": "Inseminoid",
+        "en": "Inseminoid"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Which museum in New York has the most visitors?"
+    },
+    "reponse": {
+      "Q1129820": {
+        "fr": "Cooper–Hewitt, Smithsonian Design Museum",
+        "en": "Cooper Hewitt, Smithsonian Design Museum"
+      }
+    },
+    "candidats": {
+      "Q283998": {
+        "fr": "Arizona State University Art Museum",
+        "en": "Arizona State University Art Museum"
+      },
+      "Q1368166": {
+        "fr": "musée d'art de San Diego",
+        "en": "San Diego Museum of Art"
+      },
+      "Q4681251": {
+        "en": "Addison Gallery of American Art"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "What was the first Queen album?"
+    },
+    "reponse": {
+      "Q84034437": {
+        "en": "Pre Ordained"
+      }
+    },
+    "candidats": {}
+  },
+  {
+    "question": {
+      "en": "What was the last movie with Alec Guinness?"
+    },
+    "reponse": {
+      "Q2704431": {
+        "fr": "Témoin muet",
+        "en": "Mute Witness"
+      }
+    },
+    "candidats": {
+      "Q2599661": {
+        "fr": "Yasemin",
+        "en": "Yasemin"
+      },
+      "Q689938": {
+        "fr": "Je vous salue, Marie",
+        "en": "Hail Mary"
+      },
+      "Q333576": {
+        "fr": "Absurdistan",
+        "en": "Absurdistan"
+      }
+    }
+  },
+  {
+    "question": {
+      "en": "Who discovered Pluto?"
+    },
+    "reponse": {
+      "Q190232": {
+        "fr": "Clyde William Tombaugh",
+        "en": "Clyde Tombaugh"
+      }
+    },
+    "candidats": {
+      "Q76712": {
+        "fr": "Max Wolf",
+        "en": "Max Wolf"
+      },
+      "Q57432": {
+        "fr": "August Kopff",
+        "en": "August Kopff"
+      },
+      "Q311220": {
+        "fr": "James Craig Watson",
+        "en": "James Craig Watson"
+      }
+    }
+  }	
+]

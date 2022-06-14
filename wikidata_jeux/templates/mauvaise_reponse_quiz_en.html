@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+
+<meta charset="UTF-8">
+</head>
+<body>
+
+<div class="retour">
+<a href="{{ url_for('accueil') }}" class="bouton">Home</a>
+</div>
+<h1> No ! The answer is : {{reponse}}</h1>
+<div class="all">
+    <div id="gauche">
+        <div class="listePucesI">
+           
+
+            <p style="text-align:center"><b>Here are some information about the answer : </b> </p>
+            <ul>
+                {%for k,v in resume.items() %} 
+              
+                    <li><b>{{k}} :</b> {{v}}</li> 
+                {%endfor%} 
+            </ul>
+        </div>
+    </div>
+    <div id="droite">
+        <div class="listePucesI">
+            <p style="text-align:center"> <b>Here are the similarities between your answer ({{proposition}}) and the good one ({{reponse}}) : </b></p>
+            <ul>
+                {%for k,v in commun.items() %} 
+              
+                    <li><b>{{k}} :</b> {{v}}</li> 
+                {%endfor%} 
+            </ul>
+        </div>
+    </div>
+    
+</div>
+<div id="centre">
+    <a href="{{url_for('demarrer_jeu_quiz')}}" class="bouton">Continue</a>
+</div>
+</body>
+</html>

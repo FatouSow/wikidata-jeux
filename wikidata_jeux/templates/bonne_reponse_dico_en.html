@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<meta charset="UTF-8">
+</head>
+<body>
+
+<div class="retour">
+<a href="{{ url_for('accueil') }}" class="bouton">Home</a>
+</div>
+
+<div class="Bonne_reponse">
+<h1> Well done !</h1>
+<a href="{{url_for('demarrer_jeu_dico')}}" class="bouton">Continue</a>
+</div>
+</body>
+</html>

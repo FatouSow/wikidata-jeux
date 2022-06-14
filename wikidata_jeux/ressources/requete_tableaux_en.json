@@ -1,0 +1,5941 @@
+{
+  "head": {
+    "vars": [
+      "reponse",
+      "reponseLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12418"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mona Lisa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23915"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "An Old Man and his Grandson"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24118"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Clubfoot"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24531"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cortona Triptych"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25729"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Persistence of Memory"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1212937"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Ambassadors"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1213151"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Entombment of Christ"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1213594"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Hülsenbeck children"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1214313"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The life stages"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1217187"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Calumny of Apelles"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1217213"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Annunciation"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1219263"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Sleeping Gypsy"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1227359"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Diptych of Federico da Montefeltro and Battista Sforza"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1238886"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Man with a Quilted Sleeve"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1239065"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ecce homo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3842422"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Virgin and Child Enthroned"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3858720"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Miracle of the Cross at the Bridge of S. Lorenzo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3863235"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Death of Adonis"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3877893"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Noli me tangere"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3888847"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Landscape with a Ruined Castle and a Church"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3889230"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Beata Umiltà Altarpiece"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3907477"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quaratesi Polyptych"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3910927"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Presentation of the Virgin in the Temple"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3933580"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Resurrection"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937397"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of a Man"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937436"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Sultan Mehmet II"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937446"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Lomellini Family"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1239950"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "L'Absinthe"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1240092"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Innocent X"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1245354"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Bar at the Folies-Bergère"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23008414"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23009844"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-portrait at an Easel"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23306625"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trial before the village mayor."
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23669197"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A View of Deventer seen from the North-West"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23890290"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "L'ambitieuse"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23929170"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mrs Siddons as the Tragic Muse"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23992775"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Grande Galerie of the Louvre"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24050946"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of a girl in red"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26514597"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cavalry making a Sortie from a Fort on a Hill"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26518944"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint Paul on Malta"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26689431"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sun Rising through Vapour"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94802"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Burial of the Count of Orgaz"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q128910"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Last Supper"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q152509"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Luncheon on the Grass"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q152867"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "La maja desnuda"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18686401"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "John Campbell, 4th Duke of Argyll"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18686463"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Princess of Denmark"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18686723"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sir James Macdonald and Sir Alexander Macdonald"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18688165"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Captain Thomas Lee"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18688335"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Dream of Saint Helena"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18695767"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Flagellation of Christ"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18710647"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mill in Sunlight"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18719519"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Triptych with the Entombment of Christ"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18719530"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marie-Antoinette seated, in blue coat and white dress, holding a book in her hand"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18719540"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self Portrait in a Straw Hat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18749029"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "On Reconnaissance"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18891075"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Girls on the Bridge"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18891156"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Scream"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18916866"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Young Boy Making Soap Bubbles"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18929078"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Decapitation of Saint George"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1796098"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Brera Madonna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1813497"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wilton Diptych"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1899740"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Assumption of the Ale vallejo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1913390"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Max Schmitt in a Single Scull"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4660884"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A break away!"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4803790"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ascanius Shooting the Stag of Sylvia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4892369"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Spanish Wedding"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5348954"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Eight Bells"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5454994"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fishing"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5480957"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Water Sprite"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5561848"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Tailor"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5703908"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ariadne Abandoned by Theseus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5826311"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Port de Marseilles"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5901183"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Proposition"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5965197"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Last Supper"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5968050"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Council Chamber in Amsterdam Town Hall"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5977784"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arrival of the French Ambassador in Venice"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6025666"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Girl with Racket and Shuttlecock"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937481"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Equestrian Portrait of Charles I"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937508"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lady Elizabeth Thimbelby and her Sister"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937542"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Gian Galeazzo Sanvitale by Parmigianino"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937597"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Lionel d'Este"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3937598"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Lucina Brembati"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3944145"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marriage A-la-Mode: 2. The Tête à Tête"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3947110"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stigmatization of St Francis"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3947115"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Francis in the Desert"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3947246"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint John the Baptist in the Wilderness"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3948677"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Augustine in His Study"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3974495"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stories of Saint Nicholas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29585674"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Virgin and Child Surrounded by Angels"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29952231"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fortune-Teller with a Fool"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29982589"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christ before Pilate"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46457423"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adoration of the Shepherds"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47510248"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "View of Dordrecht (from the Maas)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48976861"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haystacks at sunset, frosty weather"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49281539"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Death of General Montgomery in the Attack on Quebec,  December 31, 1775"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50820973"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A View at the Entrance of the Grand Canal, Venice"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51133657"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Oculi"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52086906"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Blue Horse II"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52146301"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Young Woman with a Macaw"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52157660"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A View through a House"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52157977"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52238785"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hambletonian, Rubbing Down"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q52262425"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Map Reading"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q53676122"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sick Girl"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55424937"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Summer Night"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55424945"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Summer Night"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55694477"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charlotte Corinth at her Dressing Table"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8348832"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Composition IV"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9081326"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "We Shall Not Go to the Market Today"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9247900"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Two Old Men Disputing"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9281692"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adam and Eve"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9387695"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "the repose of the Virgin Mary"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10543734"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bringing Home the Body of King Karl XII of Sweden"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11684478"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adoration of the Child Jesus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11719033"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jan Sobieski at Vienna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11907346"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11919094"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Et in Arcadia ego"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11926784"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Interior of the Buurkerk in Utrecht"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11930182"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Crambe Beck Bridge, near Kirkham, Yorkshire"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11931777"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Wedding at Cana"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11945394"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of a beardless man"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12015473"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Le Lit"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12900141"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Sir Walter Scott"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13846427"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Ruins of Holyrood Chapel"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14906333"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Babenberg family tree triptych"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q167605"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Milkmaid"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q175036"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Guernica"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27973505"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Collioure"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27974811"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Domenico di Jacopo di Matteo, called 'Becuccio Bicchieraio'"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28001663"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fritza Riedler"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28006573"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Head of a peasant girl"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28020071"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "View of Tiber in Rome"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28035852"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Forbidden Fruit picker"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28042948"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Queen Elizabeth I ('The Ditchley portrait')"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28093938"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haystack"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28126453"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Plate of Fruit on a Chair"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28538104"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Seashore with Boats"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28541710"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Doctor"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28542003"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "1943-45 (St Ives, Cornwall)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28547053"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The singing of the folk song"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28548113"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Half-Brother (Exit to Nowhere - Machiavellian)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28554077"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "10pm Saturday"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28554211"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Honeymoon Nude"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28777912"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pennsylvania Station Excavation"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28794178"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "North-east view from the northern top of Mount Kosciusko"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28796713"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "George Washington"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28796777"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A view of the artist's house and garden, in Mills Plains, Van Diemen's Land"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28797209"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Picnic in May"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28797768"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Beauty Looking Back"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28798152"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Woman with a Birdcage"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28933385"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fighting for a river crossing."
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29097175"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Second Story Sunlight"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29166308"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Summer"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29480644"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Holy Family"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19968926"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Titania, Bottom and the Fairies"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20087549"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Edward Grimston"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20100473"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Bean king"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20102578"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Archery Contest"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20199311"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Country Home"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20268114"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Woman at Her Toilette"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20274935"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Still Life with Game Fowl"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20440851"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Gondola"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20467316"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landing of Captain Cook at Botany Bay, 1770"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20469180"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Untitled (Awelye)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20538871"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Grainstack (Snow Effect)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20539215"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Woman Sewing before a Garden Window"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20730499"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landscape with St Jerome"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20771726"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mr. and Mrs. Ralph Izard (Alice Delancey)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20808604"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mont Sainte-Victoire"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20809957"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Shepherd Girl (Little Bo-Peep)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20813156"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Entry into Port of a Ship with a Red Rose Aboard"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20816631"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Bachelors Twenty Years Later"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21013240"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Judgement of Cambyses: The Arrest of Sisamnes"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21013837"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Danish artists at the Osteria La Gensola in Rome"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21082215"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Tepidarium"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21082977"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Young Man Among Roses"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21607576"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Story of Papirius"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21655444"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21711859"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fields, Rueil"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21741370"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Morning in Paris"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21747078"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nightmare"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21948567"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sunflowers"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22087247"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Punishment of Lust"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22116939"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Early Morning"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23008305"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of the Artist's Sisters Playing Chess"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16948333"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Washington Crossing the Delaware"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16986541"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vir Heroicus Sublimis"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17189258"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Comtesse d'Haussonville"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17491939"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "La dame en détresse"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17818339"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Boy playing a violin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18002417"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rape of Europa by Titian"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18009722"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Isle of the Dead (5th version)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18170716"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Democritus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18209719"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Snap the Whip"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18353189"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Niagara Falls, from the American Side"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18420689"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Venus with a Satyr and Cupids"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18508781"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Annunciation"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18543956"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bedroom in Arles"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18564202"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Niccolò Mauruzi da Tolentino unseats Bernardino della Ciarda at the Battle of San Romano"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18564226"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Decisive Attack of Micheletto Attendolo at San Romano"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18564234"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Niccolò Mauruzi da Tolentino at the Battle of San Romano"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18565907"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Triumph of Titus and Vespasian"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18572318"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Summer"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q212616"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Raft of the Medusa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219831"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Night Watch"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q151047"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Birth of Venus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220859"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arnolfini Portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1984131"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint George and the Dragon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2030685"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Marriage of the Virgin"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2146810"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Skating Minister"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2247406"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Judith Slaying Holofernes"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2267583"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait in Tuxedo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2270805"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Boy in the Red Vest"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28722"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Stonebreaker"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29530"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Liberty Leading the People"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2392901"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of a Man"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2459266"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of a Kleptomaniac"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2465911"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christina's World"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26693061"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self Portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26706576"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "River Landscape with Horseman and Peasants"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26706719"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint George killing the Dragon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26708346"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Young Schoolmistress"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26708361"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Exhibition of a Rhinoceros at Venice"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26756023"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Execution of Emperor Maximilian"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27070111"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint Donatian"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27700100"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christ embracing Saint Bernard"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27749844"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rubens painting ‘The Allegory of Peace’"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27780860"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nude Boy on the Beach at Portici"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27955544"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Robert Burns, 1759 - 1796. Poet"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27955565"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Three Oncologists (Professor RJ Steele, Professor Sir Alfred Cuschieri and Professor Sir David P Lane of the Department of Surgery and Molecular Oncology, Ninewells Hospital, Dundee."
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27971173"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2917717"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Bull"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2943415"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Stonemason's Yard"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3012259"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Whistlejacket"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6201702"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jimson Weed"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6455615"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "L'Atelier Rouge"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6485133"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landscape with the Ashes of Phocion"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6609268"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stańczyk"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6929863"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mrs. Richard Brinsley Sheridan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7142987"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pasteur's portrait by Edelfelt"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7196196"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pinkie"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7232252"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Andrea Doria"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7571529"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Recollection of Mortefontaine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7587080"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Anthony Beaten by Devils"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7617092"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Still Life with Lemons, Oranges and a Rose"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7715071"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Awakening Conscience"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7727872"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Courtyard of a House in Delft"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7728193"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Crossing of the Red Sea"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8187529"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Studio at Les Batignolles"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8208907"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Au Moulin de la Galette"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15089686"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Francesco Sassetti and His Son Teodoro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15392270"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "At Breakfast"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15874406"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "View of an Interior"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15877622"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bazille's Studio"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15880869"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Isabella Stewart Gardner"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15935001"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of a Man, called  condottiere"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15965694"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Composition with Red, Yellow and Blue"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15991817"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Georg Brandes at the University in Copenhagen"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16038731"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Snow Storm: Steam-Boat off a Harbour's Mouth"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16070127"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "After the sitting"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16268451"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The return of the prodigal son"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16560298"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kissing the Relic"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16581437"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nativity of the Theotokos"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16589355"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Repentant Magdalen"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3642171"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "La rencontre"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3649296"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Hunt in the Forest"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3658719"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charity"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3661546"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Waterfall in a Rocky Landscape"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3698260"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Crucifix"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3719885"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Venus with Mercury and Cupid ('The School of Love')"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3766162"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Woman bathing in a Stream (Hendrickje Stoffels?)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3797599"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Forest Fire"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3797739"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meeting at the Golden Gate"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3808227"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Girls at the Piano"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2513438"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Dance to the Music of Time"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2528741"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christ Crucified"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2529969"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Mass at Bolsena"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2571560"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Angelus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2610936"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Boy with a Basket of Fruit"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3983794"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Temptation of Adam and Eve"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3998941"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Triumph of Death"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4062968"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Altarpiece of the Church Fathers"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4065093"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Angel with Golden Hair"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4091893"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nevermore"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4126304"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Raising of Lazarus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4131769"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Skater"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4148585"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Autumn Leaves"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4373359"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of an Elderly Woman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4464287"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Work"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110070024"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Poole Harbour, Dorset"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110180956"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christine de Pisan with Queen Isabeau"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110181679"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Humay arrives at the gate of Humayun’s castle"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184288"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christ in Majesty"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184322"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Eldrad leaving for Santiago de Compostela"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184554"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Immortal Paradise Building in the Mountain"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184662"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bodhisattva Padmapani"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184730"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hercules in the Garden of the Hesperides"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184746"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Good shepherd"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184817"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Theseus honoured by the Athenians after he killed the Minotaur"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110184993"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Konons family fresco"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110197268"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Woman in a yellow dress"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110197409"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Boulevard Montmartre: Morning, Sunlight and Mist"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110198465"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Still Life with Wine and Chestnuts"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110199374"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Country festival"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110199717"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Emperor Franz Joseph I of Austria"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q636537"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Death of Marat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q642198"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Annunciation, with Saint Emidius"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q646337"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nocturne in Black and Gold – The Falling Rocket"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q661378"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Anatomy Lesson of Dr. Nicolaes Tulp"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19117238"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Still-Life with Jar of Olives"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19287936"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Basket of Flowers"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19326698"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Game of Tric Trac"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19363211"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait with Bandaged Ear"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19826775"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Garden of Pan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19851208"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Watson and the Shark"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19868939"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Mrs Bacon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19882892"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Keith (From Gimme Shelter)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19883545"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dance (I)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19884980"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Leaf of the Artichoke Is an Owl"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19885134"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Child with Birds"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19885174"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19885207"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empire of Light II"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19886962"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "One: Number 31 1950"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19899820"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Course of Empire: Destruction"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19900653"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "American Lake Scene"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19904863"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Charlotte du Val d'Ognes"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19911452"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Judgment of Paris"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19911707"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Women Picking Olives"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19925426"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lady at the Tea Table"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q241455"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Battle of Alexander at Issus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q257580"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Fighting Temeraire tugged to her last Berth to be broken up"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q318944"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Last Supper"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q321303"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Garden of Earthly Delights"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q476458"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Oath of the Horatii"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q481447"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Goethe in the Roman Campagna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q500985"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Hunters in the Snow"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q509806"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Washington Crossing the Delaware"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40432"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Horse Fair"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59201"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Napoleon Crossing the Alps"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q63844"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Soft Construction with Boiled Beans"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q83872"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nighthawks"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q185372"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Girl with a Pearl Earring"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q687182"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Whistler's Mother"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q698487"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Kiss"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2619037"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Madame Récamier"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2620028"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Delivery of the Keys"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2622172"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Bellelli Family"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2629559"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Swing"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2664039"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Madame X"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1247110"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landscape with the Fall of Icarus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1410866"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Martyrdom of Saint Sebastian"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1430990"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Venus, Cupid, Folly and Time"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1523789"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait with Death Playing the Fiddle"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3047015"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Odalisque with Slave"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3080509"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Valpinçon Bather"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3135789"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hip, Hip, Hurrah!"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3137278"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Madame Moitessier"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3172087"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fur Traders Descending the Missouri"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3202169"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Apotheosis of Homer"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3203172"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christ's Entry Into Brussels in 1889"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q699388"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Young Hare"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q700834"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jupiter and Io"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q720602"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nocturne: Blue and Silver – Chelsea"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q727875"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Venus of Urbino"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3821820"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Ballet Class"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3828038"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Number 1, 1950 (Lavender Mist)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2272215"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "I and the Village"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2273517"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Conversion on the Way to Damascus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2275610"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Le Cirque"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2292041"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Human Condition"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2293905"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Medusa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q328079"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sistine Madonna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q328523"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Impression, Sunrise"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q734834"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ghent Altarpiece"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q737062"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Olympia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q743643"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joseph the Carpenter"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q746716"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Narcissuss"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q531329"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Embarkation for Cythera"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q549847"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Primavera"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q563727"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Virgin and Child with Saint Anne"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1619527"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mr and Mrs Andrews"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1706136"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Joseph with Jacob in Egypt"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1751408"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "San Giobbe Altarpiece"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1759631"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Tribute Money"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1759759"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Doge Leonardo Loredan"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1764395"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vision After the Sermon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q186953"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "School of Athens"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q208758"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Las Meninas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q780466"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint George and the Dragon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q822535"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Isabella"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q844675"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sistine Chapel ceiling"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q910199"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Les Demoiselles d'Avignon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2317837"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Nightmare"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2366825"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Hay Wain"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2376881"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Annunciation of Cortona"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2381716"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Flight into Egypt"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2388965"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q567861"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Last Judgment"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q568847"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Descent from the Cross."
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q570188"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trinity"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18573984"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Apple Tree in Blossom"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18574018"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Boy with Parrots and Monkeys"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18574543"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "King Gustav Vasa of Sweden Addressing Men from Dalarna in Mora"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18574638"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Storm Clouds"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18599228"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landscape, From Lejre"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18599469"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meating an Evening on a Road"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18599588"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Norwegian Mountain Landscape"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18600052"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Interior"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18600103"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Town"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18600197"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Man Warping"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18642429"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Sense of Sight"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18683021"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Balcony Room"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18683084"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "David Hume"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18683416"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jahangir Preferring a Sufi Shaikh to Kings"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18685969"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Lady with a Squirrel and a Starling (Anne Lovell?)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18685971"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Henry VIII"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18686031"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Portinari Triptych"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q920030"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Charles IV of Spain and His Family"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q930137"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Tempest"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q948745"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rucellai Madonna"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q951105"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Feast in the House of Levi"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81751257"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Summer"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81813877"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Music and Prudence"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81815085"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adam and Eve"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81818579"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Witch Anqarut ties Malik Iraj to a tree"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81818937"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chinese Lions (Karajishi)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87742762"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flowers"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88982278"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Madame de Pompadour (1721-1764), Mistress of Louis XV"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q91350181"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Tuileries Gardens, Rainy Weather"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q94969317"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Proserpine"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q95683812"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Blonde Odalisque"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97377044"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Damned Cast into Hell"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98150939"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Crossing the Sands"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102421011"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Knight's Dream"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102422465"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Old Peasant Woman"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102422865"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Woman in the Wilderness"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102424260"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The raven addresses the animals"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102425731"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Schmidt Family"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102550234"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Moret Bridge in the Sunlight"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102830029"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint George and the Dragon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102832336"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Winter Landscape"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102835362"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Maximilian I"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103210615"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Akbar celebrates the birth of his second son"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103212211"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Descent from the Cross"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103213743"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Orpheus in the Underworld"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103231881"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Giovanni Boccaccio from the cycle Famous People"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q103235023"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Herod's Banquet"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104626080"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Landscape with Woodcutters"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104696315"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Barbara Villiers, Duchess of Cleveland as St Catherine of Alexandria"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105438312"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Melancholy"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106868097"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christ on the Cross"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106875534"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Race Track at Deauville, the Start"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109929965"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109930455"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Cristina, My Sister"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109934206"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Interior of St. Bavo in Haarlem"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q109937746"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Breakfast in the Garden"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q110055851"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pencerrig"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3605559"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adoration of the Child"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3605563"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adoration of the Shepherds"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3605568"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Adoration of Camaldoli"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3607561"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Equestrienne (At the Cirque Fernando)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3612423"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Witchcraft (Allegory of Hercules)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3630751"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Self-Portrait at the Age of 34"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3637224"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Vision of the Blessed Gabriele"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q956541"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Death of General Wolfe"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q958245"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Last of England"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q960447"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tiger in a Tropical Storm"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q965124"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laughing Cavalier"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q969367"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Woman Holding a Balance"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q334138"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "L'Origine du monde"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q368788"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pietà"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q369582"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Madonna and Child"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60367852"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Captain Job Jansse Cuijter and His Family"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61664849"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Homework by Lamp Light"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q61777425"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Procession of the Youngest King"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62096937"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pedro II (6)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62567525"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flower Thrower"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62743953"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gambling Scene at an Inn"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64505390"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nebamun garden"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q64576596"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ring Gymnast No. 2"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66363195"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Loie Fuller at the Folies-Bergère"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66369800"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Last Judgement"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q66370712"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Celestial hemisphere"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q67204105"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Effects of Good Government in the city"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q67389294"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Phosphorus and Hesperus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q77546220"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Break Domination"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q77984758"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Autumn Grasses"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q79037266"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Conflagration"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81740609"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Goldsmiths at work"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81746602"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tomb of the diver in Paestum - Cover"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81746876"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Villa of the Mysteries"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81749221"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Portrait of Dr Edward Meyer (1855-1930), German historian"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81750531"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Garden Restaurant"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3204090"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Burning of the Houses of Lords and Commons"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3228069"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Lock"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3312011"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bathers (Les Grandes Baigneuses)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3320114"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Monarch of the Glen"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3356655"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Orphés"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3387944"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pierrot"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3402890"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Scapegoat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3504778"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kiss of Judas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3539569"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Donne Triptych"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q977200"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Holy Trinity"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q979440"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Annunciation with St. Margaret and St. Ansanus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1044742"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "A Sunday Afternoon on the Island of La Grande Jatte"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056043"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Annunciation with two Kneeling Donors"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2667782"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Descent from the Cross"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2735507"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Clothed Maja"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2811576"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Agnew Clinic"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2843906"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Red Roofs, Côte Saint-Denis at Pontoise, Winter Effect"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2898215"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Painting"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2912117"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Tub"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q604761"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Blue Boy"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q611583"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Minerva protects Pax from Mars"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q614047"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Girl with a Red Hat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q634122"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wheatfield with Crows"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q588695"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Art of Painting"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q591762"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Isenheim Altarpiece"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q603751"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Peasant Wedding"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q379906"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Fortune Teller"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q430293"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Resurrection"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q464782"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "American Gothic"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1065493"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ophelia"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1090837"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bathers at Asnières"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1091086"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Third of May 1808"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1114571"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Umbrellas"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1114823"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saint Augustine in His Cell"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1133420"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Surrender of Breda"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1133821"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Death of Sardanapalus"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1150997"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saturn Devouring His Son"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1167178"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Painter's Studio"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1167796"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "An Experiment on a Bird in the Air Pump"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1167907"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Luncheon of the Boating Party"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194663"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Jurist"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1195035"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Kiss"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1197591"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The Dream of St. Ursula"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1206860"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bacchus and Ariadne"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1212920"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Flagellation of Christ"
+        }
+      }
+    ]
+  }
+}

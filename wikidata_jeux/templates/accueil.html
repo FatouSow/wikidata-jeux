@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<!--a commenter apres traitement css-->
+<!--<link rel="stylesheet" href="../static/style.css">-->
+<meta charset="UTF-8">
+
+</head>
+<body>
+
+<h1>Jeux implémentés grâce au graphe de connaissances Wikidata </h1>
+<div class="listeJeux">
+
+<a href="{{ url_for('aller_jeu_dico') }}" class="bouton"> Jeu des définitions </a>
+<br>
+<br>
+<br>
+<a href="{{ url_for('aller_jeu_quiz') }}" class="bouton"> Quiz </a>
+<br>
+<br>
+<br>
+<a href="{{ url_for('aller_jeu_indices') }}" class="bouton"> Jeu des indices </a>
+
+</div>
+
+</body>
+</html>

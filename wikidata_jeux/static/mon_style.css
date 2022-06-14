@@ -1,0 +1,136 @@
+* {
+    font-family: Montserra;
+    
+}
+
+@font-face {
+    font-family: Montserra;
+    src: url('LibreBaskerville-Regular.ttf');
+}
+.all
+{
+    justify-content: space-around;
+}
+
+h1 {
+    color: #2E9967;
+    text-align: center;
+    font-size:30px;
+}
+.listeJeux{
+    width: 700px;
+    margin:auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    position: relative;
+    border-style: hidden;
+    border-radius: 10px;
+    text-align: center;
+    background-color:  #D3D3D3;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.listePucesI
+{
+    
+    border-style: hidden;
+    border-radius: 10px;
+    background-color:  #D3D3D3;
+    margin-left: auto;
+    margin-right: auto;
+    width : 400px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.reponse
+{
+    border-style: hidden;
+    border-radius: 15px;
+    background-color:  #D3D3D3;
+    width : 400px;
+    padding: 10px 10px 10px 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+
+#button {
+    display:inline-block; 
+    width: 30%; 
+    height: 100%;
+    vertical-align: middle;
+    background-color : #2E9967;
+    border-style: hidden;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    color : white;
+
+}
+.bouton
+{
+    text-decoration: none;
+    background-color : #2E9967;
+    border-style: hidden;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    color: white;
+}
+.retour
+{
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+/*https://www.w3schools.com/css/css_form.asp*/
+.zone_texte
+{
+
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-radius: 15px;
+  border-style: hidden;
+}
+
+.Bonne_reponse
+{
+
+    text-align: center;
+    margin-top: 100px;
+}
+
+.Mauvaise_reponse
+{
+    font-style: #7F0000;
+    text-align: center;
+    margin-top: 100px;
+}
+#gauche
+{
+    display:inline-block; 
+    width: 50%; 
+    height: 100%;
+    text-align: left;
+    /*margin-left: 10px;*/
+}
+#droite
+{
+    display:inline-block; 
+    width: 40%; 
+    height: 100%;
+}
+#centre
+{
+    text-align: center;
+    padding-top: 20px;
+}

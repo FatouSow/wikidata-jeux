@@ -1,0 +1,2157 @@
+{
+  "head": {
+    "vars": [
+      "reponse",
+      "reponseLabel"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27035"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Grijalva River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27538"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Susquehanna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44163"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Koksoak River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q418366"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Akillik River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q546088"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aniak River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q667197"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Swift River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q675651"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Otter Tail River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3783"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amazon"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104437"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yukon River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131071"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Willamette River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1265"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colorado River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q582321"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mearim River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q589911"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Essequibo River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q590533"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Caroní River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2981909"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jutai River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3097778"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "San Juan River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5244330"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "De Contas River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5286126"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Do Meio River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2237"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "North Saskatchewan River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2249"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Liard River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2251"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Columbia River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4534"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Andalién River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60974"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ottawa River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3047"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saskatchewan River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3140"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hudson River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q284603"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Porcupine River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q286340"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Klondike River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q607976"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paranapanema River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q611388"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Huallaga River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q655251"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meta River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1497"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mississippi River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18278"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Uruguay River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26271"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Purus River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q386331"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Grande River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q472816"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Juruena River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q496570"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Potaro River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q508582"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Courantyne River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3292"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nelson River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q940488"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Marys River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1343322"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Desaguadero River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1349924"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ventuari River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1363972"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Atrato River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1478566"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Santa Cruz River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2262"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kootenay River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1121956"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Caura River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1146770"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cuyuni River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162365"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Salado River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1185369"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Demerara River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q392161"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saguenay River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q393769"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tanana River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117615"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mamoré River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93360"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bío Bío River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117526"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jurua River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q751347"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "San Joaquin River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q788011"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Talachulitna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q847785"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colorado River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q859175"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Big River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q859274"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Big Sioux River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q142604"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Beni River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q220503"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Assiniboine River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q269710"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fraser River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q134750"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Lawrence River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q318435"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Detroit River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q335575"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sacramento River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131792"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Orinoco River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118251"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Madeira Rivel"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q118771"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rio Negro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3411"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mackenzie River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q156006"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Red River of the North"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q156032"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Red River of the South"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q661805"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arinos River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q737831"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Loa River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776155"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paranaíba River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q127892"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paraná River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15120122"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mesilinka River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171840"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Japurá River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q171847"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Araguaia River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179396"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paraguay River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2650411"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sinnamary"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2670262"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jari River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2844812"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Solimões"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191829"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magdalena River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q142148"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "São Francisco River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5419"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Missouri River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1513192"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pará River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1757394"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Doce River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2314768"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Approuague"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2565430"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dulce River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2216"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Athabasca River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q817337"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Río Negro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q849693"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Madre de Dios River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853315"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Apure River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q191635"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Iguazu River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q160636"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rio Grande"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200952"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ucayali River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q209590"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Urubamba River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853332"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cauca River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q859548"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Río Negro"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q213782"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Putumayo River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q214921"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Apurímac River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2220"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peace River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2226"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Slave River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200174"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marañón River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179444"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Potomac River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18482493"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Canoas River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q67548076"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Saphy River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q70139776"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tullumayo River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1059928"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arauca River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q941329"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Javary River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q955354"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chubut River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1047596"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Guaviare River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270467"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bermejo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270569"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pilcomayo"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q182343"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Niagara River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q196183"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wabash River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q270627"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colorado River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q331455"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Casiquiare canal"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q385342"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Desaguadero River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5167806"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cooper River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5168069"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Coos River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5353787"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Elbow River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5613364"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gualala River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1054325"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Clair River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1092043"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cimarron River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1108022"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Francis River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1113020"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colville River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1241991"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Albany River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1288110"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Shenango River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1339067"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Emory River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1370855"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stony River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1390482"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quinault River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1410560"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Roe River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1436431"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Takotna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1129218"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Balsas River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1131514"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Coppermine River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1146724"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cuyahoga River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1156321"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "D River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1677801"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tutuksuk River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1794942"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kwethluk River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1865830"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Little Susitna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1970278"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rio Conchos"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2000773"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "North Santiam River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2005508"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nushagak River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2005786"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nuyakuk River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2008746"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Obed River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2030974"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Russian River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1161204"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "San Juan River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1163523"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dubawnt River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1200621"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Deshka River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1239783"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Severn River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1468689"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "River Coco"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1536453"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Johnson River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1544834"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kentucky River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1624702"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Holitna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1633955"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lerma River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2092571"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Stikine River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2214785"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Salmon River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2302661"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Río Grande de Santiago"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2315080"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Squirrel River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2352739"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rock Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2372327"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Elbow River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7171667"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Petaluma River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7592135"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "St. Vrain Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7699246"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ten Mile River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7811968"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Toccoa River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7958794"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wacissa River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7986972"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "West Walker River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7996173"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Whitemouth River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13533400"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vermilion River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14684081"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taylor Creek (Lake Tahoe)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14684485"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fall River (Larimer County, Colorado)"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14706056"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mancos River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6982165"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Navarro River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7055375"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "North Fork Big Thompson River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7161432"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pelican River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7161433"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pelican River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2568291"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Río Grande de Matagalpa"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2600106"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yentna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2927472"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Buckland River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3048854"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Eek River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3110716"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Goodhope River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3197645"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kivalina River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3528394"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tikchik River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4060606"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Albion River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4453762"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taylor River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4906196"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Big River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5091574"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cheoah River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30975118"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Farm River, Montserrat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30975140"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hot River, Montserrat"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34781055"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Clear Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38926536"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Daddys Creek"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43034621"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kahiltna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43145604"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tokositna River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46625720"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Oconaluftee River"
+        }
+      },
+      {
+        "reponse": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49854821"
+        },
+        "reponseLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Big Spring Creek"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wiki Jeux</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='mon_style.css') }}">
+<meta charset="UTF-8">
+</head>
+<body>
+	<div class="retour">
+		<a href="{{ url_for('accueil') }}" class="bouton">Accueil</a>
+	</div>
+
+	<h1> Quiz </h1>
+	<div class="listeJeux" action = "/jeu_dico/reponse" method="POST">
+		<p><b>Question : </b> {{question}}</p>
+
+		
+		<form action = "/jeu_quiz/reponse" method="POST">
+			<div class="quiz">
+				<input type="radio" name="proposition" id="prop1" value="{{prop1}}">
+				<label for="prop1">{{prop1}}</label>
+				<br>
+
+				<input type="radio" name="proposition" id="prop2" value="{{prop2}}">
+				<label for="prop2">{{prop2}}</label>
+				<br>
+
+				<input type="radio" name="proposition" id="prop3" value="{{prop3}}">
+				<label for="prop3">{{prop3}}</label>
+				<br>
+
+				<input type="radio" name="proposition" id="prop4" value="{{prop4}}">
+				<label for="prop4">{{prop4}}</label>
+
+			</div>
+			<br><br>
+
+			<input type="hidden" name="reponse" value="{{reponse}}" />
+			<input type="hidden" name="langue" value="{{langue}}"/>
+
+			<button type="submit" id="button">Valider</button>
+		</form>
+
+
+	</div>
+
+</body>
+</html>

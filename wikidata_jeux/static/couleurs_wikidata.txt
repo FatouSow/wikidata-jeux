@@ -1,0 +1,5 @@
+006599 sapphire blue
+9A0000 dark red
+454545 onyx (gris)
+7F0000 maroon web (rouge)
+2E9967 green cyan
